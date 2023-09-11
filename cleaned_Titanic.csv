@@ -1,0 +1,892 @@
+,passengerid,passenger_class,name,sex,age,sibsp,fare,embarked,survived,last_name,other_name
+0,1,third class,"Braund, Mr. Owen Harris",male,22.0,1,7.25,S,Died,Braund, Mr. Owen Harris
+1,2,first class,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,71.2833,C,Alive,Cumings, Mrs. John Bradley (Florence Briggs Thayer)
+2,3,third class,"Heikkinen, Miss. Laina",female,26.0,0,7.925,S,Alive,Heikkinen, Miss. Laina
+3,4,first class,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,53.1,S,Alive,Futrelle, Mrs. Jacques Heath (Lily May Peel)
+4,5,third class,"Allen, Mr. William Henry",male,35.0,0,8.05,S,Died,Allen, Mr. William Henry
+5,6,third class,"Moran, Mr. James",male,,0,8.4583,Q,Died,Moran, Mr. James
+6,7,first class,"McCarthy, Mr. Timothy J",male,54.0,0,51.8625,S,Died,McCarthy, Mr. Timothy J
+7,8,third class,"Palsson, Master. Gosta Leonard",male,2.0,3,21.075,S,Died,Palsson, Master. Gosta Leonard
+8,9,third class,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0,11.1333,S,Alive,Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)
+9,10,second class,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1,30.0708,C,Alive,Nasser, Mrs. Nicholas (Adele Achem)
+10,11,third class,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,16.7,S,Alive,Sandstrom, Miss. Marguerite Rut
+11,12,first class,"Bonnell, Miss. Elizabeth",female,58.0,0,26.55,S,Alive,Bonnell, Miss. Elizabeth
+12,13,third class,"Saundercock, Mr. William Henry",male,20.0,0,8.05,S,Died,Saundercock, Mr. William Henry
+13,14,third class,"Andersson, Mr. Anders Johan",male,39.0,1,31.275,S,Died,Andersson, Mr. Anders Johan
+14,15,third class,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0,7.8542,S,Died,Vestrom, Miss. Hulda Amanda Adolfina
+15,16,second class,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0,16.0,S,Alive,Hewlett, Mrs. (Mary D Kingcome) 
+16,17,third class,"Rice, Master. Eugene",male,2.0,4,29.125,Q,Died,Rice, Master. Eugene
+17,18,second class,"Williams, Mr. Charles Eugene",male,,0,13.0,S,Alive,Williams, Mr. Charles Eugene
+18,19,third class,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,18.0,S,Died,Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)
+19,20,third class,"Masselmani, Mrs. Fatima",female,,0,7.225,C,Alive,Masselmani, Mrs. Fatima
+20,21,second class,"Fynney, Mr. Joseph J",male,35.0,0,26.0,S,Died,Fynney, Mr. Joseph J
+21,22,second class,"Beesley, Mr. Lawrence",male,34.0,0,13.0,S,Alive,Beesley, Mr. Lawrence
+22,23,third class,"McGowan, Miss. Anna ""Annie""",female,15.0,0,8.0292,Q,Alive,McGowan," Miss. Anna ""Annie"""
+23,24,first class,"Sloper, Mr. William Thompson",male,28.0,0,35.5,S,Alive,Sloper, Mr. William Thompson
+24,25,third class,"Palsson, Miss. Torborg Danira",female,8.0,3,21.075,S,Died,Palsson, Miss. Torborg Danira
+25,26,third class,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,31.3875,S,Alive,Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)
+26,27,third class,"Emir, Mr. Farred Chehab",male,,0,7.225,C,Died,Emir, Mr. Farred Chehab
+27,28,first class,"Fortune, Mr. Charles Alexander",male,19.0,3,263.0,S,Died,Fortune, Mr. Charles Alexander
+28,29,third class,"O'Dwyer, Miss. Ellen ""Nellie""",female,,0,7.8792,Q,Alive,O'Dwyer," Miss. Ellen ""Nellie"""
+29,30,third class,"Todoroff, Mr. Lalio",male,,0,7.8958,S,Died,Todoroff, Mr. Lalio
+30,31,first class,"Uruchurtu, Don. Manuel E",male,40.0,0,27.7208,C,Died,Uruchurtu, Don. Manuel E
+31,32,first class,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,,1,146.5208,C,Alive,Spencer, Mrs. William Augustus (Marie Eugenie)
+32,33,third class,"Glynn, Miss. Mary Agatha",female,,0,7.75,Q,Alive,Glynn, Miss. Mary Agatha
+33,34,second class,"Wheadon, Mr. Edward H",male,66.0,0,10.5,S,Died,Wheadon, Mr. Edward H
+34,35,first class,"Meyer, Mr. Edgar Joseph",male,28.0,1,82.1708,C,Died,Meyer, Mr. Edgar Joseph
+35,36,first class,"Holverson, Mr. Alexander Oskar",male,42.0,1,52.0,S,Died,Holverson, Mr. Alexander Oskar
+36,37,third class,"Mamee, Mr. Hanna",male,,0,7.2292,C,Alive,Mamee, Mr. Hanna
+37,38,third class,"Cann, Mr. Ernest Charles",male,21.0,0,8.05,S,Died,Cann, Mr. Ernest Charles
+38,39,third class,"Vander Planke, Miss. Augusta Maria",female,18.0,2,18.0,S,Died,Vander Planke, Miss. Augusta Maria
+39,40,third class,"Nicola-Yarred, Miss. Jamila",female,14.0,1,11.2417,C,Alive,Nicola-Yarred, Miss. Jamila
+40,41,third class,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,9.475,S,Died,Ahlin, Mrs. Johan (Johanna Persdotter Larsson)
+41,42,second class,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,1,21.0,S,Died,Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)
+42,43,third class,"Kraeff, Mr. Theodor",male,,0,7.8958,C,Died,Kraeff, Mr. Theodor
+43,44,second class,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,41.5792,C,Alive,Laroche, Miss. Simonne Marie Anne Andree
+44,45,third class,"Devaney, Miss. Margaret Delia",female,19.0,0,7.8792,Q,Alive,Devaney, Miss. Margaret Delia
+45,46,third class,"Rogers, Mr. William John",male,,0,8.05,S,Died,Rogers, Mr. William John
+46,47,third class,"Lennon, Mr. Denis",male,,1,15.5,Q,Died,Lennon, Mr. Denis
+47,48,third class,"O'Driscoll, Miss. Bridget",female,,0,7.75,Q,Alive,O'Driscoll, Miss. Bridget
+48,49,third class,"Samaan, Mr. Youssef",male,,2,21.6792,C,Died,Samaan, Mr. Youssef
+49,50,third class,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1,17.8,S,Died,Arnold-Franchi, Mrs. Josef (Josefine Franchi)
+50,51,third class,"Panula, Master. Juha Niilo",male,7.0,4,39.6875,S,Died,Panula, Master. Juha Niilo
+51,52,third class,"Nosworthy, Mr. Richard Cater",male,21.0,0,7.8,S,Died,Nosworthy, Mr. Richard Cater
+52,53,first class,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,76.7292,C,Alive,Harper, Mrs. Henry Sleeper (Myna Haxtun)
+53,54,second class,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1,26.0,S,Alive,Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)
+54,55,first class,"Ostby, Mr. Engelhart Cornelius",male,65.0,0,61.9792,C,Died,Ostby, Mr. Engelhart Cornelius
+55,56,first class,"Woolner, Mr. Hugh",male,,0,35.5,S,Alive,Woolner, Mr. Hugh
+56,57,second class,"Rugg, Miss. Emily",female,21.0,0,10.5,S,Alive,Rugg, Miss. Emily
+57,58,third class,"Novel, Mr. Mansouer",male,28.5,0,7.2292,C,Died,Novel, Mr. Mansouer
+58,59,second class,"West, Miss. Constance Mirium",female,5.0,1,27.75,S,Alive,West, Miss. Constance Mirium
+59,60,third class,"Goodwin, Master. William Frederick",male,11.0,5,46.9,S,Died,Goodwin, Master. William Frederick
+60,61,third class,"Sirayanian, Mr. Orsen",male,22.0,0,7.2292,C,Died,Sirayanian, Mr. Orsen
+61,62,first class,"Icard, Miss. Amelie",female,38.0,0,80.0,,Alive,Icard, Miss. Amelie
+62,63,first class,"Harris, Mr. Henry Birkhardt",male,45.0,1,83.475,S,Died,Harris, Mr. Henry Birkhardt
+63,64,third class,"Skoog, Master. Harald",male,4.0,3,27.9,S,Died,Skoog, Master. Harald
+64,65,first class,"Stewart, Mr. Albert A",male,,0,27.7208,C,Died,Stewart, Mr. Albert A
+65,66,third class,"Moubarek, Master. Gerios",male,,1,15.2458,C,Alive,Moubarek, Master. Gerios
+66,67,second class,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,10.5,S,Alive,Nye, Mrs. (Elizabeth Ramell)
+67,68,third class,"Crease, Mr. Ernest James",male,19.0,0,8.1583,S,Died,Crease, Mr. Ernest James
+68,69,third class,"Andersson, Miss. Erna Alexandra",female,17.0,4,7.925,S,Alive,Andersson, Miss. Erna Alexandra
+69,70,third class,"Kink, Mr. Vincenz",male,26.0,2,8.6625,S,Died,Kink, Mr. Vincenz
+70,71,second class,"Jenkin, Mr. Stephen Curnow",male,32.0,0,10.5,S,Died,Jenkin, Mr. Stephen Curnow
+71,72,third class,"Goodwin, Miss. Lillian Amy",female,16.0,5,46.9,S,Died,Goodwin, Miss. Lillian Amy
+72,73,second class,"Hood, Mr. Ambrose Jr",male,21.0,0,73.5,S,Died,Hood, Mr. Ambrose Jr
+73,74,third class,"Chronopoulos, Mr. Apostolos",male,26.0,1,14.4542,C,Died,Chronopoulos, Mr. Apostolos
+74,75,third class,"Bing, Mr. Lee",male,32.0,0,56.4958,S,Alive,Bing, Mr. Lee
+75,76,third class,"Moen, Mr. Sigurd Hansen",male,25.0,0,7.65,S,Died,Moen, Mr. Sigurd Hansen
+76,77,third class,"Staneff, Mr. Ivan",male,,0,7.8958,S,Died,Staneff, Mr. Ivan
+77,78,third class,"Moutal, Mr. Rahamin Haim",male,,0,8.05,S,Died,Moutal, Mr. Rahamin Haim
+78,79,second class,"Caldwell, Master. Alden Gates",male,0.83,0,29.0,S,Alive,Caldwell, Master. Alden Gates
+79,80,third class,"Dowdell, Miss. Elizabeth",female,30.0,0,12.475,S,Alive,Dowdell, Miss. Elizabeth
+80,81,third class,"Waelens, Mr. Achille",male,22.0,0,9.0,S,Died,Waelens, Mr. Achille
+81,82,third class,"Sheerlinck, Mr. Jan Baptist",male,29.0,0,9.5,S,Alive,Sheerlinck, Mr. Jan Baptist
+82,83,third class,"McDermott, Miss. Brigdet Delia",female,,0,7.7875,Q,Alive,McDermott, Miss. Brigdet Delia
+83,84,first class,"Carrau, Mr. Francisco M",male,28.0,0,47.1,S,Died,Carrau, Mr. Francisco M
+84,85,second class,"Ilett, Miss. Bertha",female,17.0,0,10.5,S,Alive,Ilett, Miss. Bertha
+85,86,third class,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3,15.85,S,Alive,Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)
+86,87,third class,"Ford, Mr. William Neal",male,16.0,1,34.375,S,Died,Ford, Mr. William Neal
+87,88,third class,"Slocovski, Mr. Selman Francis",male,,0,8.05,S,Died,Slocovski, Mr. Selman Francis
+88,89,first class,"Fortune, Miss. Mabel Helen",female,23.0,3,263.0,S,Alive,Fortune, Miss. Mabel Helen
+89,90,third class,"Celotti, Mr. Francesco",male,24.0,0,8.05,S,Died,Celotti, Mr. Francesco
+90,91,third class,"Christmann, Mr. Emil",male,29.0,0,8.05,S,Died,Christmann, Mr. Emil
+91,92,third class,"Andreasson, Mr. Paul Edvin",male,20.0,0,7.8542,S,Died,Andreasson, Mr. Paul Edvin
+92,93,first class,"Chaffee, Mr. Herbert Fuller",male,46.0,1,61.175,S,Died,Chaffee, Mr. Herbert Fuller
+93,94,third class,"Dean, Mr. Bertram Frank",male,26.0,1,20.575,S,Died,Dean, Mr. Bertram Frank
+94,95,third class,"Coxon, Mr. Daniel",male,59.0,0,7.25,S,Died,Coxon, Mr. Daniel
+95,96,third class,"Shorney, Mr. Charles Joseph",male,,0,8.05,S,Died,Shorney, Mr. Charles Joseph
+96,97,first class,"Goldschmidt, Mr. George B",male,71.0,0,34.6542,C,Died,Goldschmidt, Mr. George B
+97,98,first class,"Greenfield, Mr. William Bertram",male,23.0,0,63.3583,C,Alive,Greenfield, Mr. William Bertram
+98,99,second class,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,0,23.0,S,Alive,Doling, Mrs. John T (Ada Julia Bone)
+99,100,second class,"Kantor, Mr. Sinai",male,34.0,1,26.0,S,Died,Kantor, Mr. Sinai
+100,101,third class,"Petranec, Miss. Matilda",female,28.0,0,7.8958,S,Died,Petranec, Miss. Matilda
+101,102,third class,"Petroff, Mr. Pastcho (""Pentcho"")",male,,0,7.8958,S,Died,Petroff," Mr. Pastcho (""Pentcho"")"
+102,103,first class,"White, Mr. Richard Frasar",male,21.0,0,77.2875,S,Died,White, Mr. Richard Frasar
+103,104,third class,"Johansson, Mr. Gustaf Joel",male,33.0,0,8.6542,S,Died,Johansson, Mr. Gustaf Joel
+104,105,third class,"Gustafsson, Mr. Anders Vilhelm",male,37.0,2,7.925,S,Died,Gustafsson, Mr. Anders Vilhelm
+105,106,third class,"Mionoff, Mr. Stoytcho",male,28.0,0,7.8958,S,Died,Mionoff, Mr. Stoytcho
+106,107,third class,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,7.65,S,Alive,Salkjelsvik, Miss. Anna Kristine
+107,108,third class,"Moss, Mr. Albert Johan",male,,0,7.775,S,Alive,Moss, Mr. Albert Johan
+108,109,third class,"Rekic, Mr. Tido",male,38.0,0,7.8958,S,Died,Rekic, Mr. Tido
+109,110,third class,"Moran, Miss. Bertha",female,,1,24.15,Q,Alive,Moran, Miss. Bertha
+110,111,first class,"Porter, Mr. Walter Chamberlain",male,47.0,0,52.0,S,Died,Porter, Mr. Walter Chamberlain
+111,112,third class,"Zabour, Miss. Hileni",female,14.5,1,14.4542,C,Died,Zabour, Miss. Hileni
+112,113,third class,"Barton, Mr. David John",male,22.0,0,8.05,S,Died,Barton, Mr. David John
+113,114,third class,"Jussila, Miss. Katriina",female,20.0,1,9.825,S,Died,Jussila, Miss. Katriina
+114,115,third class,"Attalah, Miss. Malake",female,17.0,0,14.4583,C,Died,Attalah, Miss. Malake
+115,116,third class,"Pekoniemi, Mr. Edvard",male,21.0,0,7.925,S,Died,Pekoniemi, Mr. Edvard
+116,117,third class,"Connors, Mr. Patrick",male,70.5,0,7.75,Q,Died,Connors, Mr. Patrick
+117,118,second class,"Turpin, Mr. William John Robert",male,29.0,1,21.0,S,Died,Turpin, Mr. William John Robert
+118,119,first class,"Baxter, Mr. Quigg Edmond",male,24.0,0,247.5208,C,Died,Baxter, Mr. Quigg Edmond
+119,120,third class,"Andersson, Miss. Ellis Anna Maria",female,2.0,4,31.275,S,Died,Andersson, Miss. Ellis Anna Maria
+120,121,second class,"Hickman, Mr. Stanley George",male,21.0,2,73.5,S,Died,Hickman, Mr. Stanley George
+121,122,third class,"Moore, Mr. Leonard Charles",male,,0,8.05,S,Died,Moore, Mr. Leonard Charles
+122,123,second class,"Nasser, Mr. Nicholas",male,32.5,1,30.0708,C,Died,Nasser, Mr. Nicholas
+123,124,second class,"Webber, Miss. Susan",female,32.5,0,13.0,S,Alive,Webber, Miss. Susan
+124,125,first class,"White, Mr. Percival Wayland",male,54.0,0,77.2875,S,Died,White, Mr. Percival Wayland
+125,126,third class,"Nicola-Yarred, Master. Elias",male,12.0,1,11.2417,C,Alive,Nicola-Yarred, Master. Elias
+126,127,third class,"McMahon, Mr. Martin",male,,0,7.75,Q,Died,McMahon, Mr. Martin
+127,128,third class,"Madsen, Mr. Fridtjof Arne",male,24.0,0,7.1417,S,Alive,Madsen, Mr. Fridtjof Arne
+128,129,third class,"Peter, Miss. Anna",female,,1,22.3583,C,Alive,Peter, Miss. Anna
+129,130,third class,"Ekstrom, Mr. Johan",male,45.0,0,6.975,S,Died,Ekstrom, Mr. Johan
+130,131,third class,"Drazenoic, Mr. Jozef",male,33.0,0,7.8958,C,Died,Drazenoic, Mr. Jozef
+131,132,third class,"Coelho, Mr. Domingos Fernandeo",male,20.0,0,7.05,S,Died,Coelho, Mr. Domingos Fernandeo
+132,133,third class,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,1,14.5,S,Died,Robins, Mrs. Alexander A (Grace Charity Laury)
+133,134,second class,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1,26.0,S,Alive,Weisz, Mrs. Leopold (Mathilde Francoise Pede)
+134,135,second class,"Sobey, Mr. Samuel James Hayden",male,25.0,0,13.0,S,Died,Sobey, Mr. Samuel James Hayden
+135,136,second class,"Richard, Mr. Emile",male,23.0,0,15.0458,C,Died,Richard, Mr. Emile
+136,137,first class,"Newsom, Miss. Helen Monypeny",female,19.0,0,26.2833,S,Alive,Newsom, Miss. Helen Monypeny
+137,138,first class,"Futrelle, Mr. Jacques Heath",male,37.0,1,53.1,S,Died,Futrelle, Mr. Jacques Heath
+138,139,third class,"Osen, Mr. Olaf Elon",male,16.0,0,9.2167,S,Died,Osen, Mr. Olaf Elon
+139,140,first class,"Giglio, Mr. Victor",male,24.0,0,79.2,C,Died,Giglio, Mr. Victor
+140,141,third class,"Boulos, Mrs. Joseph (Sultana)",female,,0,15.2458,C,Died,Boulos, Mrs. Joseph (Sultana)
+141,142,third class,"Nysten, Miss. Anna Sofia",female,22.0,0,7.75,S,Alive,Nysten, Miss. Anna Sofia
+142,143,third class,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1,15.85,S,Alive,Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)
+143,144,third class,"Burke, Mr. Jeremiah",male,19.0,0,6.75,Q,Died,Burke, Mr. Jeremiah
+144,145,second class,"Andrew, Mr. Edgardo Samuel",male,18.0,0,11.5,S,Died,Andrew, Mr. Edgardo Samuel
+145,146,second class,"Nicholls, Mr. Joseph Charles",male,19.0,1,36.75,S,Died,Nicholls, Mr. Joseph Charles
+146,147,third class,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,0,7.7958,S,Alive,Andersson," Mr. August Edvard (""Wennerstrom"")"
+147,148,third class,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,2,34.375,S,Died,Ford," Miss. Robina Maggie ""Ruby"""
+148,149,second class,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,26.0,S,Died,Navratil," Mr. Michel (""Louis M Hoffman"")"
+149,150,second class,"Byles, Rev. Thomas Roussel Davids",male,42.0,0,13.0,S,Died,Byles, Rev. Thomas Roussel Davids
+150,151,second class,"Bateman, Rev. Robert James",male,51.0,0,12.525,S,Died,Bateman, Rev. Robert James
+151,152,first class,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,66.6,S,Alive,Pears, Mrs. Thomas (Edith Wearne)
+152,153,third class,"Meo, Mr. Alfonzo",male,55.5,0,8.05,S,Died,Meo, Mr. Alfonzo
+153,154,third class,"van Billiard, Mr. Austin Blyler",male,40.5,0,14.5,S,Died,van Billiard, Mr. Austin Blyler
+154,155,third class,"Olsen, Mr. Ole Martin",male,,0,7.3125,S,Died,Olsen, Mr. Ole Martin
+155,156,first class,"Williams, Mr. Charles Duane",male,51.0,0,61.3792,C,Died,Williams, Mr. Charles Duane
+156,157,third class,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,7.7333,Q,Alive,Gilnagh," Miss. Katherine ""Katie"""
+157,158,third class,"Corn, Mr. Harry",male,30.0,0,8.05,S,Died,Corn, Mr. Harry
+158,159,third class,"Smiljanic, Mr. Mile",male,,0,8.6625,S,Died,Smiljanic, Mr. Mile
+159,160,third class,"Sage, Master. Thomas Henry",male,,8,69.55,S,Died,Sage, Master. Thomas Henry
+160,161,third class,"Cribb, Mr. John Hatfield",male,44.0,0,16.1,S,Died,Cribb, Mr. John Hatfield
+161,162,second class,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,0,15.75,S,Alive,Watt," Mrs. James (Elizabeth ""Bessie"" Inglis Milne)"
+162,163,third class,"Bengtsson, Mr. John Viktor",male,26.0,0,7.775,S,Died,Bengtsson, Mr. John Viktor
+163,164,third class,"Calic, Mr. Jovo",male,17.0,0,8.6625,S,Died,Calic, Mr. Jovo
+164,165,third class,"Panula, Master. Eino Viljami",male,1.0,4,39.6875,S,Died,Panula, Master. Eino Viljami
+165,166,third class,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0,20.525,S,Alive,Goldsmith," Master. Frank John William ""Frankie"""
+166,167,first class,"Chibnall, Mrs. (Edith Martha Bowerman)",female,,0,55.0,S,Alive,Chibnall, Mrs. (Edith Martha Bowerman)
+167,168,third class,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,1,27.9,S,Died,Skoog, Mrs. William (Anna Bernhardina Karlsson)
+168,169,first class,"Baumann, Mr. John D",male,,0,25.925,S,Died,Baumann, Mr. John D
+169,170,third class,"Ling, Mr. Lee",male,28.0,0,56.4958,S,Died,Ling, Mr. Lee
+170,171,first class,"Van der hoef, Mr. Wyckoff",male,61.0,0,33.5,S,Died,Van der hoef, Mr. Wyckoff
+171,172,third class,"Rice, Master. Arthur",male,4.0,4,29.125,Q,Died,Rice, Master. Arthur
+172,173,third class,"Johnson, Miss. Eleanor Ileen",female,1.0,1,11.1333,S,Alive,Johnson, Miss. Eleanor Ileen
+173,174,third class,"Sivola, Mr. Antti Wilhelm",male,21.0,0,7.925,S,Died,Sivola, Mr. Antti Wilhelm
+174,175,first class,"Smith, Mr. James Clinch",male,56.0,0,30.6958,C,Died,Smith, Mr. James Clinch
+175,176,third class,"Klasen, Mr. Klas Albin",male,18.0,1,7.8542,S,Died,Klasen, Mr. Klas Albin
+176,177,third class,"Lefebre, Master. Henry Forbes",male,,3,25.4667,S,Died,Lefebre, Master. Henry Forbes
+177,178,first class,"Isham, Miss. Ann Elizabeth",female,50.0,0,28.7125,C,Died,Isham, Miss. Ann Elizabeth
+178,179,second class,"Hale, Mr. Reginald",male,30.0,0,13.0,S,Died,Hale, Mr. Reginald
+179,180,third class,"Leonard, Mr. Lionel",male,36.0,0,0.0,S,Died,Leonard, Mr. Lionel
+180,181,third class,"Sage, Miss. Constance Gladys",female,,8,69.55,S,Died,Sage, Miss. Constance Gladys
+181,182,second class,"Pernot, Mr. Rene",male,,0,15.05,C,Died,Pernot, Mr. Rene
+182,183,third class,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,4,31.3875,S,Died,Asplund, Master. Clarence Gustaf Hugo
+183,184,second class,"Becker, Master. Richard F",male,1.0,2,39.0,S,Alive,Becker, Master. Richard F
+184,185,third class,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,22.025,S,Alive,Kink-Heilmann, Miss. Luise Gretchen
+185,186,first class,"Rood, Mr. Hugh Roscoe",male,,0,50.0,S,Died,Rood, Mr. Hugh Roscoe
+186,187,third class,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,,1,15.5,Q,Alive,O'Brien," Mrs. Thomas (Johanna ""Hannah"" Godfrey)"
+187,188,first class,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,0,26.55,S,Alive,Romaine," Mr. Charles Hallace (""Mr C Rolmane"")"
+188,189,third class,"Bourke, Mr. John",male,40.0,1,15.5,Q,Died,Bourke, Mr. John
+189,190,third class,"Turcin, Mr. Stjepan",male,36.0,0,7.8958,S,Died,Turcin, Mr. Stjepan
+190,191,second class,"Pinsky, Mrs. (Rosa)",female,32.0,0,13.0,S,Alive,Pinsky, Mrs. (Rosa)
+191,192,second class,"Carbines, Mr. William",male,19.0,0,13.0,S,Died,Carbines, Mr. William
+192,193,third class,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,1,7.8542,S,Alive,Andersen-Jensen, Miss. Carla Christine Nielsine
+193,194,second class,"Navratil, Master. Michel M",male,3.0,1,26.0,S,Alive,Navratil, Master. Michel M
+194,195,first class,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0,27.7208,C,Alive,Brown, Mrs. James Joseph (Margaret Tobin)
+195,196,first class,"Lurette, Miss. Elise",female,58.0,0,146.5208,C,Alive,Lurette, Miss. Elise
+196,197,third class,"Mernagh, Mr. Robert",male,,0,7.75,Q,Died,Mernagh, Mr. Robert
+197,198,third class,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,0,8.4042,S,Died,Olsen, Mr. Karl Siegwart Andreas
+198,199,third class,"Madigan, Miss. Margaret ""Maggie""",female,,0,7.75,Q,Alive,Madigan," Miss. Margaret ""Maggie"""
+199,200,second class,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,0,13.0,S,Died,Yrois," Miss. Henriette (""Mrs Harbeck"")"
+200,201,third class,"Vande Walle, Mr. Nestor Cyriel",male,28.0,0,9.5,S,Died,Vande Walle, Mr. Nestor Cyriel
+201,202,third class,"Sage, Mr. Frederick",male,,8,69.55,S,Died,Sage, Mr. Frederick
+202,203,third class,"Johanson, Mr. Jakob Alfred",male,34.0,0,6.4958,S,Died,Johanson, Mr. Jakob Alfred
+203,204,third class,"Youseff, Mr. Gerious",male,45.5,0,7.225,C,Died,Youseff, Mr. Gerious
+204,205,third class,"Cohen, Mr. Gurshon ""Gus""",male,18.0,0,8.05,S,Alive,Cohen," Mr. Gurshon ""Gus"""
+205,206,third class,"Strom, Miss. Telma Matilda",female,2.0,0,10.4625,S,Died,Strom, Miss. Telma Matilda
+206,207,third class,"Backstrom, Mr. Karl Alfred",male,32.0,1,15.85,S,Died,Backstrom, Mr. Karl Alfred
+207,208,third class,"Albimona, Mr. Nassef Cassem",male,26.0,0,18.7875,C,Alive,Albimona, Mr. Nassef Cassem
+208,209,third class,"Carr, Miss. Helen ""Ellen""",female,16.0,0,7.75,Q,Alive,Carr," Miss. Helen ""Ellen"""
+209,210,first class,"Blank, Mr. Henry",male,40.0,0,31.0,C,Alive,Blank, Mr. Henry
+210,211,third class,"Ali, Mr. Ahmed",male,24.0,0,7.05,S,Died,Ali, Mr. Ahmed
+211,212,second class,"Cameron, Miss. Clear Annie",female,35.0,0,21.0,S,Alive,Cameron, Miss. Clear Annie
+212,213,third class,"Perkin, Mr. John Henry",male,22.0,0,7.25,S,Died,Perkin, Mr. John Henry
+213,214,second class,"Givard, Mr. Hans Kristensen",male,30.0,0,13.0,S,Died,Givard, Mr. Hans Kristensen
+214,215,third class,"Kiernan, Mr. Philip",male,,1,7.75,Q,Died,Kiernan, Mr. Philip
+215,216,first class,"Newell, Miss. Madeleine",female,31.0,1,113.275,C,Alive,Newell, Miss. Madeleine
+216,217,third class,"Honkanen, Miss. Eliina",female,27.0,0,7.925,S,Alive,Honkanen, Miss. Eliina
+217,218,second class,"Jacobsohn, Mr. Sidney Samuel",male,42.0,1,27.0,S,Died,Jacobsohn, Mr. Sidney Samuel
+218,219,first class,"Bazzani, Miss. Albina",female,32.0,0,76.2917,C,Alive,Bazzani, Miss. Albina
+219,220,second class,"Harris, Mr. Walter",male,30.0,0,10.5,S,Died,Harris, Mr. Walter
+220,221,third class,"Sunderland, Mr. Victor Francis",male,16.0,0,8.05,S,Alive,Sunderland, Mr. Victor Francis
+221,222,second class,"Bracken, Mr. James H",male,27.0,0,13.0,S,Died,Bracken, Mr. James H
+222,223,third class,"Green, Mr. George Henry",male,51.0,0,8.05,S,Died,Green, Mr. George Henry
+223,224,third class,"Nenkoff, Mr. Christo",male,,0,7.8958,S,Died,Nenkoff, Mr. Christo
+224,225,first class,"Hoyt, Mr. Frederick Maxfield",male,38.0,1,90.0,S,Alive,Hoyt, Mr. Frederick Maxfield
+225,226,third class,"Berglund, Mr. Karl Ivar Sven",male,22.0,0,9.35,S,Died,Berglund, Mr. Karl Ivar Sven
+226,227,second class,"Mellors, Mr. William John",male,19.0,0,10.5,S,Alive,Mellors, Mr. William John
+227,228,third class,"Lovell, Mr. John Hall (""Henry"")",male,20.5,0,7.25,S,Died,Lovell," Mr. John Hall (""Henry"")"
+228,229,second class,"Fahlstrom, Mr. Arne Jonas",male,18.0,0,13.0,S,Died,Fahlstrom, Mr. Arne Jonas
+229,230,third class,"Lefebre, Miss. Mathilde",female,,3,25.4667,S,Died,Lefebre, Miss. Mathilde
+230,231,first class,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,83.475,S,Alive,Harris, Mrs. Henry Birkhardt (Irene Wallach)
+231,232,third class,"Larsson, Mr. Bengt Edvin",male,29.0,0,7.775,S,Died,Larsson, Mr. Bengt Edvin
+232,233,second class,"Sjostedt, Mr. Ernst Adolf",male,59.0,0,13.5,S,Died,Sjostedt, Mr. Ernst Adolf
+233,234,third class,"Asplund, Miss. Lillian Gertrud",female,5.0,4,31.3875,S,Alive,Asplund, Miss. Lillian Gertrud
+234,235,second class,"Leyson, Mr. Robert William Norman",male,24.0,0,10.5,S,Died,Leyson, Mr. Robert William Norman
+235,236,third class,"Harknett, Miss. Alice Phoebe",female,,0,7.55,S,Died,Harknett, Miss. Alice Phoebe
+236,237,second class,"Hold, Mr. Stephen",male,44.0,1,26.0,S,Died,Hold, Mr. Stephen
+237,238,second class,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0,26.25,S,Alive,Collyer," Miss. Marjorie ""Lottie"""
+238,239,second class,"Pengelly, Mr. Frederick William",male,19.0,0,10.5,S,Died,Pengelly, Mr. Frederick William
+239,240,second class,"Hunt, Mr. George Henry",male,33.0,0,12.275,S,Died,Hunt, Mr. George Henry
+240,241,third class,"Zabour, Miss. Thamine",female,,1,14.4542,C,Died,Zabour, Miss. Thamine
+241,242,third class,"Murphy, Miss. Katherine ""Kate""",female,,1,15.5,Q,Alive,Murphy," Miss. Katherine ""Kate"""
+242,243,second class,"Coleridge, Mr. Reginald Charles",male,29.0,0,10.5,S,Died,Coleridge, Mr. Reginald Charles
+243,244,third class,"Maenpaa, Mr. Matti Alexanteri",male,22.0,0,7.125,S,Died,Maenpaa, Mr. Matti Alexanteri
+244,245,third class,"Attalah, Mr. Sleiman",male,30.0,0,7.225,C,Died,Attalah, Mr. Sleiman
+245,246,first class,"Minahan, Dr. William Edward",male,44.0,2,90.0,Q,Died,Minahan, Dr. William Edward
+246,247,third class,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,0,7.775,S,Died,Lindahl, Miss. Agda Thorilda Viktoria
+247,248,second class,"Hamalainen, Mrs. William (Anna)",female,24.0,0,14.5,S,Alive,Hamalainen, Mrs. William (Anna)
+248,249,first class,"Beckwith, Mr. Richard Leonard",male,37.0,1,52.5542,S,Alive,Beckwith, Mr. Richard Leonard
+249,250,second class,"Carter, Rev. Ernest Courtenay",male,54.0,1,26.0,S,Died,Carter, Rev. Ernest Courtenay
+250,251,third class,"Reed, Mr. James George",male,,0,7.25,S,Died,Reed, Mr. James George
+251,252,third class,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,1,10.4625,S,Died,Strom, Mrs. Wilhelm (Elna Matilda Persson)
+252,253,first class,"Stead, Mr. William Thomas",male,62.0,0,26.55,S,Died,Stead, Mr. William Thomas
+253,254,third class,"Lobb, Mr. William Arthur",male,30.0,1,16.1,S,Died,Lobb, Mr. William Arthur
+254,255,third class,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0,20.2125,S,Died,Rosblom, Mrs. Viktor (Helena Wilhelmina)
+255,256,third class,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0,15.2458,C,Alive,Touma, Mrs. Darwis (Hanne Youssef Razi)
+256,257,first class,"Thorne, Mrs. Gertrude Maybelle",female,,0,79.2,C,Alive,Thorne, Mrs. Gertrude Maybelle
+257,258,first class,"Cherry, Miss. Gladys",female,30.0,0,86.5,S,Alive,Cherry, Miss. Gladys
+258,259,first class,"Ward, Miss. Anna",female,35.0,0,512.3292,C,Alive,Ward, Miss. Anna
+259,260,second class,"Parrish, Mrs. (Lutie Davis)",female,50.0,0,26.0,S,Alive,Parrish, Mrs. (Lutie Davis)
+260,261,third class,"Smith, Mr. Thomas",male,,0,7.75,Q,Died,Smith, Mr. Thomas
+261,262,third class,"Asplund, Master. Edvin Rojj Felix",male,3.0,4,31.3875,S,Alive,Asplund, Master. Edvin Rojj Felix
+262,263,first class,"Taussig, Mr. Emil",male,52.0,1,79.65,S,Died,Taussig, Mr. Emil
+263,264,first class,"Harrison, Mr. William",male,40.0,0,0.0,S,Died,Harrison, Mr. William
+264,265,third class,"Henry, Miss. Delia",female,,0,7.75,Q,Died,Henry, Miss. Delia
+265,266,second class,"Reeves, Mr. David",male,36.0,0,10.5,S,Died,Reeves, Mr. David
+266,267,third class,"Panula, Mr. Ernesti Arvid",male,16.0,4,39.6875,S,Died,Panula, Mr. Ernesti Arvid
+267,268,third class,"Persson, Mr. Ernst Ulrik",male,25.0,1,7.775,S,Alive,Persson, Mr. Ernst Ulrik
+268,269,first class,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,153.4625,S,Alive,Graham, Mrs. William Thompson (Edith Junkins)
+269,270,first class,"Bissette, Miss. Amelia",female,35.0,0,135.6333,S,Alive,Bissette, Miss. Amelia
+270,271,first class,"Cairns, Mr. Alexander",male,,0,31.0,S,Died,Cairns, Mr. Alexander
+271,272,third class,"Tornquist, Mr. William Henry",male,25.0,0,0.0,S,Alive,Tornquist, Mr. William Henry
+272,273,second class,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,0,19.5,S,Alive,Mellinger, Mrs. (Elizabeth Anne Maidment)
+273,274,first class,"Natsch, Mr. Charles H",male,37.0,0,29.7,C,Died,Natsch, Mr. Charles H
+274,275,third class,"Healy, Miss. Hanora ""Nora""",female,,0,7.75,Q,Alive,Healy," Miss. Hanora ""Nora"""
+275,276,first class,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,77.9583,S,Alive,Andrews, Miss. Kornelia Theodosia
+276,277,third class,"Lindblom, Miss. Augusta Charlotta",female,45.0,0,7.75,S,Died,Lindblom, Miss. Augusta Charlotta
+277,278,second class,"Parkes, Mr. Francis ""Frank""",male,,0,0.0,S,Died,Parkes," Mr. Francis ""Frank"""
+278,279,third class,"Rice, Master. Eric",male,7.0,4,29.125,Q,Died,Rice, Master. Eric
+279,280,third class,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,1,20.25,S,Alive,Abbott, Mrs. Stanton (Rosa Hunt)
+280,281,third class,"Duane, Mr. Frank",male,65.0,0,7.75,Q,Died,Duane, Mr. Frank
+281,282,third class,"Olsson, Mr. Nils Johan Goransson",male,28.0,0,7.8542,S,Died,Olsson, Mr. Nils Johan Goransson
+282,283,third class,"de Pelsmaeker, Mr. Alfons",male,16.0,0,9.5,S,Died,de Pelsmaeker, Mr. Alfons
+283,284,third class,"Dorking, Mr. Edward Arthur",male,19.0,0,8.05,S,Alive,Dorking, Mr. Edward Arthur
+284,285,first class,"Smith, Mr. Richard William",male,,0,26.0,S,Died,Smith, Mr. Richard William
+285,286,third class,"Stankovic, Mr. Ivan",male,33.0,0,8.6625,C,Died,Stankovic, Mr. Ivan
+286,287,third class,"de Mulder, Mr. Theodore",male,30.0,0,9.5,S,Alive,de Mulder, Mr. Theodore
+287,288,third class,"Naidenoff, Mr. Penko",male,22.0,0,7.8958,S,Died,Naidenoff, Mr. Penko
+288,289,second class,"Hosono, Mr. Masabumi",male,42.0,0,13.0,S,Alive,Hosono, Mr. Masabumi
+289,290,third class,"Connolly, Miss. Kate",female,22.0,0,7.75,Q,Alive,Connolly, Miss. Kate
+290,291,first class,"Barber, Miss. Ellen ""Nellie""",female,26.0,0,78.85,S,Alive,Barber," Miss. Ellen ""Nellie"""
+291,292,first class,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,91.0792,C,Alive,Bishop, Mrs. Dickinson H (Helen Walton)
+292,293,second class,"Levy, Mr. Rene Jacques",male,36.0,0,12.875,C,Died,Levy, Mr. Rene Jacques
+293,294,third class,"Haas, Miss. Aloisia",female,24.0,0,8.85,S,Died,Haas, Miss. Aloisia
+294,295,third class,"Mineff, Mr. Ivan",male,24.0,0,7.8958,S,Died,Mineff, Mr. Ivan
+295,296,first class,"Lewy, Mr. Ervin G",male,,0,27.7208,C,Died,Lewy, Mr. Ervin G
+296,297,third class,"Hanna, Mr. Mansour",male,23.5,0,7.2292,C,Died,Hanna, Mr. Mansour
+297,298,first class,"Allison, Miss. Helen Loraine",female,2.0,1,151.55,S,Died,Allison, Miss. Helen Loraine
+298,299,first class,"Saalfeld, Mr. Adolphe",male,,0,30.5,S,Alive,Saalfeld, Mr. Adolphe
+299,300,first class,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,247.5208,C,Alive,Baxter, Mrs. James (Helene DeLaudeniere Chaput)
+300,301,third class,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,,0,7.75,Q,Alive,Kelly," Miss. Anna Katherine ""Annie Kate"""
+301,302,third class,"McCoy, Mr. Bernard",male,,2,23.25,Q,Alive,McCoy, Mr. Bernard
+302,303,third class,"Johnson, Mr. William Cahoone Jr",male,19.0,0,0.0,S,Died,Johnson, Mr. William Cahoone Jr
+303,304,second class,"Keane, Miss. Nora A",female,,0,12.35,Q,Alive,Keane, Miss. Nora A
+304,305,third class,"Williams, Mr. Howard Hugh ""Harry""",male,,0,8.05,S,Died,Williams," Mr. Howard Hugh ""Harry"""
+305,306,first class,"Allison, Master. Hudson Trevor",male,0.92,1,151.55,S,Alive,Allison, Master. Hudson Trevor
+306,307,first class,"Fleming, Miss. Margaret",female,,0,110.8833,C,Alive,Fleming, Miss. Margaret
+307,308,first class,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,108.9,C,Alive,Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)
+308,309,second class,"Abelson, Mr. Samuel",male,30.0,1,24.0,C,Died,Abelson, Mr. Samuel
+309,310,first class,"Francatelli, Miss. Laura Mabel",female,30.0,0,56.9292,C,Alive,Francatelli, Miss. Laura Mabel
+310,311,first class,"Hays, Miss. Margaret Bechstein",female,24.0,0,83.1583,C,Alive,Hays, Miss. Margaret Bechstein
+311,312,first class,"Ryerson, Miss. Emily Borie",female,18.0,2,262.375,C,Alive,Ryerson, Miss. Emily Borie
+312,313,second class,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,1,26.0,S,Died,Lahtinen, Mrs. William (Anna Sylfven)
+313,314,third class,"Hendekovic, Mr. Ignjac",male,28.0,0,7.8958,S,Died,Hendekovic, Mr. Ignjac
+314,315,second class,"Hart, Mr. Benjamin",male,43.0,1,26.25,S,Died,Hart, Mr. Benjamin
+315,316,third class,"Nilsson, Miss. Helmina Josefina",female,26.0,0,7.8542,S,Alive,Nilsson, Miss. Helmina Josefina
+316,317,second class,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1,26.0,S,Alive,Kantor, Mrs. Sinai (Miriam Sternin)
+317,318,second class,"Moraweck, Dr. Ernest",male,54.0,0,14.0,S,Died,Moraweck, Dr. Ernest
+318,319,first class,"Wick, Miss. Mary Natalie",female,31.0,0,164.8667,S,Alive,Wick, Miss. Mary Natalie
+319,320,first class,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,134.5,C,Alive,Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)
+320,321,third class,"Dennis, Mr. Samuel",male,22.0,0,7.25,S,Died,Dennis, Mr. Samuel
+321,322,third class,"Danoff, Mr. Yoto",male,27.0,0,7.8958,S,Died,Danoff, Mr. Yoto
+322,323,second class,"Slayter, Miss. Hilda Mary",female,30.0,0,12.35,Q,Alive,Slayter, Miss. Hilda Mary
+323,324,second class,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1,29.0,S,Alive,Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)
+324,325,third class,"Sage, Mr. George John Jr",male,,8,69.55,S,Died,Sage, Mr. George John Jr
+325,326,first class,"Young, Miss. Marie Grice",female,36.0,0,135.6333,C,Alive,Young, Miss. Marie Grice
+326,327,third class,"Nysveen, Mr. Johan Hansen",male,61.0,0,6.2375,S,Died,Nysveen, Mr. Johan Hansen
+327,328,second class,"Ball, Mrs. (Ada E Hall)",female,36.0,0,13.0,S,Alive,Ball, Mrs. (Ada E Hall)
+328,329,third class,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,1,20.525,S,Alive,Goldsmith, Mrs. Frank John (Emily Alice Brown)
+329,330,first class,"Hippach, Miss. Jean Gertrude",female,16.0,0,57.9792,C,Alive,Hippach, Miss. Jean Gertrude
+330,331,third class,"McCoy, Miss. Agnes",female,,2,23.25,Q,Alive,McCoy, Miss. Agnes
+331,332,first class,"Partner, Mr. Austen",male,45.5,0,28.5,S,Died,Partner, Mr. Austen
+332,333,first class,"Graham, Mr. George Edward",male,38.0,0,153.4625,S,Died,Graham, Mr. George Edward
+333,334,third class,"Vander Planke, Mr. Leo Edmondus",male,16.0,2,18.0,S,Died,Vander Planke, Mr. Leo Edmondus
+334,335,first class,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,,1,133.65,S,Alive,Frauenthal, Mrs. Henry William (Clara Heinsheimer)
+335,336,third class,"Denkoff, Mr. Mitto",male,,0,7.8958,S,Died,Denkoff, Mr. Mitto
+336,337,first class,"Pears, Mr. Thomas Clinton",male,29.0,1,66.6,S,Died,Pears, Mr. Thomas Clinton
+337,338,first class,"Burns, Miss. Elizabeth Margaret",female,41.0,0,134.5,C,Alive,Burns, Miss. Elizabeth Margaret
+338,339,third class,"Dahl, Mr. Karl Edwart",male,45.0,0,8.05,S,Alive,Dahl, Mr. Karl Edwart
+339,340,first class,"Blackwell, Mr. Stephen Weart",male,45.0,0,35.5,S,Died,Blackwell, Mr. Stephen Weart
+340,341,second class,"Navratil, Master. Edmond Roger",male,2.0,1,26.0,S,Alive,Navratil, Master. Edmond Roger
+341,342,first class,"Fortune, Miss. Alice Elizabeth",female,24.0,3,263.0,S,Alive,Fortune, Miss. Alice Elizabeth
+342,343,second class,"Collander, Mr. Erik Gustaf",male,28.0,0,13.0,S,Died,Collander, Mr. Erik Gustaf
+343,344,second class,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,0,13.0,S,Died,Sedgwick, Mr. Charles Frederick Waddington
+344,345,second class,"Fox, Mr. Stanley Hubert",male,36.0,0,13.0,S,Died,Fox, Mr. Stanley Hubert
+345,346,second class,"Brown, Miss. Amelia ""Mildred""",female,24.0,0,13.0,S,Alive,Brown," Miss. Amelia ""Mildred"""
+346,347,second class,"Smith, Miss. Marion Elsie",female,40.0,0,13.0,S,Alive,Smith, Miss. Marion Elsie
+347,348,third class,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,,1,16.1,S,Alive,Davison, Mrs. Thomas Henry (Mary E Finck)
+348,349,third class,"Coutts, Master. William Loch ""William""",male,3.0,1,15.9,S,Alive,Coutts," Master. William Loch ""William"""
+349,350,third class,"Dimic, Mr. Jovan",male,42.0,0,8.6625,S,Died,Dimic, Mr. Jovan
+350,351,third class,"Odahl, Mr. Nils Martin",male,23.0,0,9.225,S,Died,Odahl, Mr. Nils Martin
+351,352,first class,"Williams-Lambert, Mr. Fletcher Fellows",male,,0,35.0,S,Died,Williams-Lambert, Mr. Fletcher Fellows
+352,353,third class,"Elias, Mr. Tannous",male,15.0,1,7.2292,C,Died,Elias, Mr. Tannous
+353,354,third class,"Arnold-Franchi, Mr. Josef",male,25.0,1,17.8,S,Died,Arnold-Franchi, Mr. Josef
+354,355,third class,"Yousif, Mr. Wazli",male,,0,7.225,C,Died,Yousif, Mr. Wazli
+355,356,third class,"Vanden Steen, Mr. Leo Peter",male,28.0,0,9.5,S,Died,Vanden Steen, Mr. Leo Peter
+356,357,first class,"Bowerman, Miss. Elsie Edith",female,22.0,0,55.0,S,Alive,Bowerman, Miss. Elsie Edith
+357,358,second class,"Funk, Miss. Annie Clemmer",female,38.0,0,13.0,S,Died,Funk, Miss. Annie Clemmer
+358,359,third class,"McGovern, Miss. Mary",female,,0,7.8792,Q,Alive,McGovern, Miss. Mary
+359,360,third class,"Mockler, Miss. Helen Mary ""Ellie""",female,,0,7.8792,Q,Alive,Mockler," Miss. Helen Mary ""Ellie"""
+360,361,third class,"Skoog, Mr. Wilhelm",male,40.0,1,27.9,S,Died,Skoog, Mr. Wilhelm
+361,362,second class,"del Carlo, Mr. Sebastiano",male,29.0,1,27.7208,C,Died,del Carlo, Mr. Sebastiano
+362,363,third class,"Barbara, Mrs. (Catherine David)",female,45.0,0,14.4542,C,Died,Barbara, Mrs. (Catherine David)
+363,364,third class,"Asim, Mr. Adola",male,35.0,0,7.05,S,Died,Asim, Mr. Adola
+364,365,third class,"O'Brien, Mr. Thomas",male,,1,15.5,Q,Died,O'Brien, Mr. Thomas
+365,366,third class,"Adahl, Mr. Mauritz Nils Martin",male,30.0,0,7.25,S,Died,Adahl, Mr. Mauritz Nils Martin
+366,367,first class,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,75.25,C,Alive,Warren, Mrs. Frank Manley (Anna Sophia Atkinson)
+367,368,third class,"Moussa, Mrs. (Mantoura Boulos)",female,,0,7.2292,C,Alive,Moussa, Mrs. (Mantoura Boulos)
+368,369,third class,"Jermyn, Miss. Annie",female,,0,7.75,Q,Alive,Jermyn, Miss. Annie
+369,370,first class,"Aubart, Mme. Leontine Pauline",female,24.0,0,69.3,C,Alive,Aubart, Mme. Leontine Pauline
+370,371,first class,"Harder, Mr. George Achilles",male,25.0,1,55.4417,C,Alive,Harder, Mr. George Achilles
+371,372,third class,"Wiklund, Mr. Jakob Alfred",male,18.0,1,6.4958,S,Died,Wiklund, Mr. Jakob Alfred
+372,373,third class,"Beavan, Mr. William Thomas",male,19.0,0,8.05,S,Died,Beavan, Mr. William Thomas
+373,374,first class,"Ringhini, Mr. Sante",male,22.0,0,135.6333,C,Died,Ringhini, Mr. Sante
+374,375,third class,"Palsson, Miss. Stina Viola",female,3.0,3,21.075,S,Died,Palsson, Miss. Stina Viola
+375,376,first class,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,,1,82.1708,C,Alive,Meyer, Mrs. Edgar Joseph (Leila Saks)
+376,377,third class,"Landergren, Miss. Aurora Adelia",female,22.0,0,7.25,S,Alive,Landergren, Miss. Aurora Adelia
+377,378,first class,"Widener, Mr. Harry Elkins",male,27.0,0,211.5,C,Died,Widener, Mr. Harry Elkins
+378,379,third class,"Betros, Mr. Tannous",male,20.0,0,4.0125,C,Died,Betros, Mr. Tannous
+379,380,third class,"Gustafsson, Mr. Karl Gideon",male,19.0,0,7.775,S,Died,Gustafsson, Mr. Karl Gideon
+380,381,first class,"Bidois, Miss. Rosalie",female,42.0,0,227.525,C,Alive,Bidois, Miss. Rosalie
+381,382,third class,"Nakid, Miss. Maria (""Mary"")",female,1.0,0,15.7417,C,Alive,Nakid," Miss. Maria (""Mary"")"
+382,383,third class,"Tikkanen, Mr. Juho",male,32.0,0,7.925,S,Died,Tikkanen, Mr. Juho
+383,384,first class,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1,52.0,S,Alive,Holverson, Mrs. Alexander Oskar (Mary Aline Towner)
+384,385,third class,"Plotcharsky, Mr. Vasil",male,,0,7.8958,S,Died,Plotcharsky, Mr. Vasil
+385,386,second class,"Davies, Mr. Charles Henry",male,18.0,0,73.5,S,Died,Davies, Mr. Charles Henry
+386,387,third class,"Goodwin, Master. Sidney Leonard",male,1.0,5,46.9,S,Died,Goodwin, Master. Sidney Leonard
+387,388,second class,"Buss, Miss. Kate",female,36.0,0,13.0,S,Alive,Buss, Miss. Kate
+388,389,third class,"Sadlier, Mr. Matthew",male,,0,7.7292,Q,Died,Sadlier, Mr. Matthew
+389,390,second class,"Lehmann, Miss. Bertha",female,17.0,0,12.0,C,Alive,Lehmann, Miss. Bertha
+390,391,first class,"Carter, Mr. William Ernest",male,36.0,1,120.0,S,Alive,Carter, Mr. William Ernest
+391,392,third class,"Jansson, Mr. Carl Olof",male,21.0,0,7.7958,S,Alive,Jansson, Mr. Carl Olof
+392,393,third class,"Gustafsson, Mr. Johan Birger",male,28.0,2,7.925,S,Died,Gustafsson, Mr. Johan Birger
+393,394,first class,"Newell, Miss. Marjorie",female,23.0,1,113.275,C,Alive,Newell, Miss. Marjorie
+394,395,third class,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0,16.7,S,Alive,Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)
+395,396,third class,"Johansson, Mr. Erik",male,22.0,0,7.7958,S,Died,Johansson, Mr. Erik
+396,397,third class,"Olsson, Miss. Elina",female,31.0,0,7.8542,S,Died,Olsson, Miss. Elina
+397,398,second class,"McKane, Mr. Peter David",male,46.0,0,26.0,S,Died,McKane, Mr. Peter David
+398,399,second class,"Pain, Dr. Alfred",male,23.0,0,10.5,S,Died,Pain, Dr. Alfred
+399,400,second class,"Trout, Mrs. William H (Jessie L)",female,28.0,0,12.65,S,Alive,Trout, Mrs. William H (Jessie L)
+400,401,third class,"Niskanen, Mr. Juha",male,39.0,0,7.925,S,Alive,Niskanen, Mr. Juha
+401,402,third class,"Adams, Mr. John",male,26.0,0,8.05,S,Died,Adams, Mr. John
+402,403,third class,"Jussila, Miss. Mari Aina",female,21.0,1,9.825,S,Died,Jussila, Miss. Mari Aina
+403,404,third class,"Hakkarainen, Mr. Pekka Pietari",male,28.0,1,15.85,S,Died,Hakkarainen, Mr. Pekka Pietari
+404,405,third class,"Oreskovic, Miss. Marija",female,20.0,0,8.6625,S,Died,Oreskovic, Miss. Marija
+405,406,second class,"Gale, Mr. Shadrach",male,34.0,1,21.0,S,Died,Gale, Mr. Shadrach
+406,407,third class,"Widegren, Mr. Carl/Charles Peter",male,51.0,0,7.75,S,Died,Widegren, Mr. Carl/Charles Peter
+407,408,second class,"Richards, Master. William Rowe",male,3.0,1,18.75,S,Alive,Richards, Master. William Rowe
+408,409,third class,"Birkeland, Mr. Hans Martin Monsen",male,21.0,0,7.775,S,Died,Birkeland, Mr. Hans Martin Monsen
+409,410,third class,"Lefebre, Miss. Ida",female,,3,25.4667,S,Died,Lefebre, Miss. Ida
+410,411,third class,"Sdycoff, Mr. Todor",male,,0,7.8958,S,Died,Sdycoff, Mr. Todor
+411,412,third class,"Hart, Mr. Henry",male,,0,6.8583,Q,Died,Hart, Mr. Henry
+412,413,first class,"Minahan, Miss. Daisy E",female,33.0,1,90.0,Q,Alive,Minahan, Miss. Daisy E
+413,414,second class,"Cunningham, Mr. Alfred Fleming",male,,0,0.0,S,Died,Cunningham, Mr. Alfred Fleming
+414,415,third class,"Sundman, Mr. Johan Julian",male,44.0,0,7.925,S,Alive,Sundman, Mr. Johan Julian
+415,416,third class,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,,0,8.05,S,Died,Meek, Mrs. Thomas (Annie Louise Rowley)
+416,417,second class,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,1,32.5,S,Alive,Drew, Mrs. James Vivian (Lulu Thorne Christian)
+417,418,second class,"Silven, Miss. Lyyli Karoliina",female,18.0,0,13.0,S,Alive,Silven, Miss. Lyyli Karoliina
+418,419,second class,"Matthews, Mr. William John",male,30.0,0,13.0,S,Died,Matthews, Mr. William John
+419,420,third class,"Van Impe, Miss. Catharina",female,10.0,0,24.15,S,Died,Van Impe, Miss. Catharina
+420,421,third class,"Gheorgheff, Mr. Stanio",male,,0,7.8958,C,Died,Gheorgheff, Mr. Stanio
+421,422,third class,"Charters, Mr. David",male,21.0,0,7.7333,Q,Died,Charters, Mr. David
+422,423,third class,"Zimmerman, Mr. Leo",male,29.0,0,7.875,S,Died,Zimmerman, Mr. Leo
+423,424,third class,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,1,14.4,S,Died,Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)
+424,425,third class,"Rosblom, Mr. Viktor Richard",male,18.0,1,20.2125,S,Died,Rosblom, Mr. Viktor Richard
+425,426,third class,"Wiseman, Mr. Phillippe",male,,0,7.25,S,Died,Wiseman, Mr. Phillippe
+426,427,second class,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1,26.0,S,Alive,Clarke, Mrs. Charles V (Ada Maria Winfield)
+427,428,second class,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,0,26.0,S,Alive,Phillips," Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")"
+428,429,third class,"Flynn, Mr. James",male,,0,7.75,Q,Died,Flynn, Mr. James
+429,430,third class,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,0,8.05,S,Alive,Pickard, Mr. Berk (Berk Trembisky)
+430,431,first class,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,0,26.55,S,Alive,Bjornstrom-Steffansson, Mr. Mauritz Hakan
+431,432,third class,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,,1,16.1,S,Alive,Thorneycroft, Mrs. Percival (Florence Kate White)
+432,433,second class,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,1,26.0,S,Alive,Louch, Mrs. Charles Alexander (Alice Adelaide Slow)
+433,434,third class,"Kallio, Mr. Nikolai Erland",male,17.0,0,7.125,S,Died,Kallio, Mr. Nikolai Erland
+434,435,first class,"Silvey, Mr. William Baird",male,50.0,1,55.9,S,Died,Silvey, Mr. William Baird
+435,436,first class,"Carter, Miss. Lucile Polk",female,14.0,1,120.0,S,Alive,Carter, Miss. Lucile Polk
+436,437,third class,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,2,34.375,S,Died,Ford," Miss. Doolina Margaret ""Daisy"""
+437,438,second class,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,2,18.75,S,Alive,Richards, Mrs. Sidney (Emily Hocking)
+438,439,first class,"Fortune, Mr. Mark",male,64.0,1,263.0,S,Died,Fortune, Mr. Mark
+439,440,second class,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0,10.5,S,Died,Kvillner, Mr. Johan Henrik Johannesson
+440,441,second class,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1,26.25,S,Alive,Hart, Mrs. Benjamin (Esther Ada Bloomfield)
+441,442,third class,"Hampe, Mr. Leon",male,20.0,0,9.5,S,Died,Hampe, Mr. Leon
+442,443,third class,"Petterson, Mr. Johan Emil",male,25.0,1,7.775,S,Died,Petterson, Mr. Johan Emil
+443,444,second class,"Reynaldo, Ms. Encarnacion",female,28.0,0,13.0,S,Alive,Reynaldo, Ms. Encarnacion
+444,445,third class,"Johannesen-Bratthammer, Mr. Bernt",male,,0,8.1125,S,Alive,Johannesen-Bratthammer, Mr. Bernt
+445,446,first class,"Dodge, Master. Washington",male,4.0,0,81.8583,S,Alive,Dodge, Master. Washington
+446,447,second class,"Mellinger, Miss. Madeleine Violet",female,13.0,0,19.5,S,Alive,Mellinger, Miss. Madeleine Violet
+447,448,first class,"Seward, Mr. Frederic Kimber",male,34.0,0,26.55,S,Alive,Seward, Mr. Frederic Kimber
+448,449,third class,"Baclini, Miss. Marie Catherine",female,5.0,2,19.2583,C,Alive,Baclini, Miss. Marie Catherine
+449,450,first class,"Peuchen, Major. Arthur Godfrey",male,52.0,0,30.5,S,Alive,Peuchen, Major. Arthur Godfrey
+450,451,second class,"West, Mr. Edwy Arthur",male,36.0,1,27.75,S,Died,West, Mr. Edwy Arthur
+451,452,third class,"Hagland, Mr. Ingvald Olai Olsen",male,,1,19.9667,S,Died,Hagland, Mr. Ingvald Olai Olsen
+452,453,first class,"Foreman, Mr. Benjamin Laventall",male,30.0,0,27.75,C,Died,Foreman, Mr. Benjamin Laventall
+453,454,first class,"Goldenberg, Mr. Samuel L",male,49.0,1,89.1042,C,Alive,Goldenberg, Mr. Samuel L
+454,455,third class,"Peduzzi, Mr. Joseph",male,,0,8.05,S,Died,Peduzzi, Mr. Joseph
+455,456,third class,"Jalsevac, Mr. Ivan",male,29.0,0,7.8958,C,Alive,Jalsevac, Mr. Ivan
+456,457,first class,"Millet, Mr. Francis Davis",male,65.0,0,26.55,S,Died,Millet, Mr. Francis Davis
+457,458,first class,"Kenyon, Mrs. Frederick R (Marion)",female,,1,51.8625,S,Alive,Kenyon, Mrs. Frederick R (Marion)
+458,459,second class,"Toomey, Miss. Ellen",female,50.0,0,10.5,S,Alive,Toomey, Miss. Ellen
+459,460,third class,"O'Connor, Mr. Maurice",male,,0,7.75,Q,Died,O'Connor, Mr. Maurice
+460,461,first class,"Anderson, Mr. Harry",male,48.0,0,26.55,S,Alive,Anderson, Mr. Harry
+461,462,third class,"Morley, Mr. William",male,34.0,0,8.05,S,Died,Morley, Mr. William
+462,463,first class,"Gee, Mr. Arthur H",male,47.0,0,38.5,S,Died,Gee, Mr. Arthur H
+463,464,second class,"Milling, Mr. Jacob Christian",male,48.0,0,13.0,S,Died,Milling, Mr. Jacob Christian
+464,465,third class,"Maisner, Mr. Simon",male,,0,8.05,S,Died,Maisner, Mr. Simon
+465,466,third class,"Goncalves, Mr. Manuel Estanslas",male,38.0,0,7.05,S,Died,Goncalves, Mr. Manuel Estanslas
+466,467,second class,"Campbell, Mr. William",male,,0,0.0,S,Died,Campbell, Mr. William
+467,468,first class,"Smart, Mr. John Montgomery",male,56.0,0,26.55,S,Died,Smart, Mr. John Montgomery
+468,469,third class,"Scanlan, Mr. James",male,,0,7.725,Q,Died,Scanlan, Mr. James
+469,470,third class,"Baclini, Miss. Helene Barbara",female,0.75,2,19.2583,C,Alive,Baclini, Miss. Helene Barbara
+470,471,third class,"Keefe, Mr. Arthur",male,,0,7.25,S,Died,Keefe, Mr. Arthur
+471,472,third class,"Cacic, Mr. Luka",male,38.0,0,8.6625,S,Died,Cacic, Mr. Luka
+472,473,second class,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,1,27.75,S,Alive,West, Mrs. Edwy Arthur (Ada Mary Worth)
+473,474,second class,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,13.7917,C,Alive,Jerwan, Mrs. Amin S (Marie Marthe Thuillard)
+474,475,third class,"Strandberg, Miss. Ida Sofia",female,22.0,0,9.8375,S,Died,Strandberg, Miss. Ida Sofia
+475,476,first class,"Clifford, Mr. George Quincy",male,,0,52.0,S,Died,Clifford, Mr. George Quincy
+476,477,second class,"Renouf, Mr. Peter Henry",male,34.0,1,21.0,S,Died,Renouf, Mr. Peter Henry
+477,478,third class,"Braund, Mr. Lewis Richard",male,29.0,1,7.0458,S,Died,Braund, Mr. Lewis Richard
+478,479,third class,"Karlsson, Mr. Nils August",male,22.0,0,7.5208,S,Died,Karlsson, Mr. Nils August
+479,480,third class,"Hirvonen, Miss. Hildur E",female,2.0,0,12.2875,S,Alive,Hirvonen, Miss. Hildur E
+480,481,third class,"Goodwin, Master. Harold Victor",male,9.0,5,46.9,S,Died,Goodwin, Master. Harold Victor
+481,482,second class,"Frost, Mr. Anthony Wood ""Archie""",male,,0,0.0,S,Died,Frost," Mr. Anthony Wood ""Archie"""
+482,483,third class,"Rouse, Mr. Richard Henry",male,50.0,0,8.05,S,Died,Rouse, Mr. Richard Henry
+483,484,third class,"Turkula, Mrs. (Hedwig)",female,63.0,0,9.5875,S,Alive,Turkula, Mrs. (Hedwig)
+484,485,first class,"Bishop, Mr. Dickinson H",male,25.0,1,91.0792,C,Alive,Bishop, Mr. Dickinson H
+485,486,third class,"Lefebre, Miss. Jeannie",female,,3,25.4667,S,Died,Lefebre, Miss. Jeannie
+486,487,first class,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1,90.0,S,Alive,Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)
+487,488,first class,"Kent, Mr. Edward Austin",male,58.0,0,29.7,C,Died,Kent, Mr. Edward Austin
+488,489,third class,"Somerton, Mr. Francis William",male,30.0,0,8.05,S,Died,Somerton, Mr. Francis William
+489,490,third class,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1,15.9,S,Alive,Coutts," Master. Eden Leslie ""Neville"""
+490,491,third class,"Hagland, Mr. Konrad Mathias Reiersen",male,,1,19.9667,S,Died,Hagland, Mr. Konrad Mathias Reiersen
+491,492,third class,"Windelov, Mr. Einar",male,21.0,0,7.25,S,Died,Windelov, Mr. Einar
+492,493,first class,"Molson, Mr. Harry Markland",male,55.0,0,30.5,S,Died,Molson, Mr. Harry Markland
+493,494,first class,"Artagaveytia, Mr. Ramon",male,71.0,0,49.5042,C,Died,Artagaveytia, Mr. Ramon
+494,495,third class,"Stanley, Mr. Edward Roland",male,21.0,0,8.05,S,Died,Stanley, Mr. Edward Roland
+495,496,third class,"Yousseff, Mr. Gerious",male,,0,14.4583,C,Died,Yousseff, Mr. Gerious
+496,497,first class,"Eustis, Miss. Elizabeth Mussey",female,54.0,1,78.2667,C,Alive,Eustis, Miss. Elizabeth Mussey
+497,498,third class,"Shellard, Mr. Frederick William",male,,0,15.1,S,Died,Shellard, Mr. Frederick William
+498,499,first class,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,1,151.55,S,Died,Allison, Mrs. Hudson J C (Bessie Waldo Daniels)
+499,500,third class,"Svensson, Mr. Olof",male,24.0,0,7.7958,S,Died,Svensson, Mr. Olof
+500,501,third class,"Calic, Mr. Petar",male,17.0,0,8.6625,S,Died,Calic, Mr. Petar
+501,502,third class,"Canavan, Miss. Mary",female,21.0,0,7.75,Q,Died,Canavan, Miss. Mary
+502,503,third class,"O'Sullivan, Miss. Bridget Mary",female,,0,7.6292,Q,Died,O'Sullivan, Miss. Bridget Mary
+503,504,third class,"Laitinen, Miss. Kristina Sofia",female,37.0,0,9.5875,S,Died,Laitinen, Miss. Kristina Sofia
+504,505,first class,"Maioni, Miss. Roberta",female,16.0,0,86.5,S,Alive,Maioni, Miss. Roberta
+505,506,first class,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,1,108.9,C,Died,Penasco y Castellana, Mr. Victor de Satode
+506,507,second class,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,0,26.0,S,Alive,Quick, Mrs. Frederick Charles (Jane Richards)
+507,508,first class,"Bradley, Mr. George (""George Arthur Brayton"")",male,,0,26.55,S,Alive,Bradley," Mr. George (""George Arthur Brayton"")"
+508,509,third class,"Olsen, Mr. Henry Margido",male,28.0,0,22.525,S,Died,Olsen, Mr. Henry Margido
+509,510,third class,"Lang, Mr. Fang",male,26.0,0,56.4958,S,Alive,Lang, Mr. Fang
+510,511,third class,"Daly, Mr. Eugene Patrick",male,29.0,0,7.75,Q,Alive,Daly, Mr. Eugene Patrick
+511,512,third class,"Webber, Mr. James",male,,0,8.05,S,Died,Webber, Mr. James
+512,513,first class,"McGough, Mr. James Robert",male,36.0,0,26.2875,S,Alive,McGough, Mr. James Robert
+513,514,first class,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,1,59.4,C,Alive,Rothschild, Mrs. Martin (Elizabeth L. Barrett)
+514,515,third class,"Coleff, Mr. Satio",male,24.0,0,7.4958,S,Died,Coleff, Mr. Satio
+515,516,first class,"Walker, Mr. William Anderson",male,47.0,0,34.0208,S,Died,Walker, Mr. William Anderson
+516,517,second class,"Lemore, Mrs. (Amelia Milley)",female,34.0,0,10.5,S,Alive,Lemore, Mrs. (Amelia Milley)
+517,518,third class,"Ryan, Mr. Patrick",male,,0,24.15,Q,Died,Ryan, Mr. Patrick
+518,519,second class,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,1,26.0,S,Alive,Angle," Mrs. William A (Florence ""Mary"" Agnes Hughes)"
+519,520,third class,"Pavlovic, Mr. Stefo",male,32.0,0,7.8958,S,Died,Pavlovic, Mr. Stefo
+520,521,first class,"Perreault, Miss. Anne",female,30.0,0,93.5,S,Alive,Perreault, Miss. Anne
+521,522,third class,"Vovk, Mr. Janko",male,22.0,0,7.8958,S,Died,Vovk, Mr. Janko
+522,523,third class,"Lahoud, Mr. Sarkis",male,,0,7.225,C,Died,Lahoud, Mr. Sarkis
+523,524,first class,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,0,57.9792,C,Alive,Hippach, Mrs. Louis Albert (Ida Sophia Fischer)
+524,525,third class,"Kassem, Mr. Fared",male,,0,7.2292,C,Died,Kassem, Mr. Fared
+525,526,third class,"Farrell, Mr. James",male,40.5,0,7.75,Q,Died,Farrell, Mr. James
+526,527,second class,"Ridsdale, Miss. Lucy",female,50.0,0,10.5,S,Alive,Ridsdale, Miss. Lucy
+527,528,first class,"Farthing, Mr. John",male,,0,221.7792,S,Died,Farthing, Mr. John
+528,529,third class,"Salonen, Mr. Johan Werner",male,39.0,0,7.925,S,Died,Salonen, Mr. Johan Werner
+529,530,second class,"Hocking, Mr. Richard George",male,23.0,2,11.5,S,Died,Hocking, Mr. Richard George
+530,531,second class,"Quick, Miss. Phyllis May",female,2.0,1,26.0,S,Alive,Quick, Miss. Phyllis May
+531,532,third class,"Toufik, Mr. Nakli",male,,0,7.2292,C,Died,Toufik, Mr. Nakli
+532,533,third class,"Elias, Mr. Joseph Jr",male,17.0,1,7.2292,C,Died,Elias, Mr. Joseph Jr
+533,534,third class,"Peter, Mrs. Catherine (Catherine Rizk)",female,,0,22.3583,C,Alive,Peter, Mrs. Catherine (Catherine Rizk)
+534,535,third class,"Cacic, Miss. Marija",female,30.0,0,8.6625,S,Died,Cacic, Miss. Marija
+535,536,second class,"Hart, Miss. Eva Miriam",female,7.0,0,26.25,S,Alive,Hart, Miss. Eva Miriam
+536,537,first class,"Butt, Major. Archibald Willingham",male,45.0,0,26.55,S,Died,Butt, Major. Archibald Willingham
+537,538,first class,"LeRoy, Miss. Bertha",female,30.0,0,106.425,C,Alive,LeRoy, Miss. Bertha
+538,539,third class,"Risien, Mr. Samuel Beard",male,,0,14.5,S,Died,Risien, Mr. Samuel Beard
+539,540,first class,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,49.5,C,Alive,Frolicher, Miss. Hedwig Margaritha
+540,541,first class,"Crosby, Miss. Harriet R",female,36.0,0,71.0,S,Alive,Crosby, Miss. Harriet R
+541,542,third class,"Andersson, Miss. Ingeborg Constanzia",female,9.0,4,31.275,S,Died,Andersson, Miss. Ingeborg Constanzia
+542,543,third class,"Andersson, Miss. Sigrid Elisabeth",female,11.0,4,31.275,S,Died,Andersson, Miss. Sigrid Elisabeth
+543,544,second class,"Beane, Mr. Edward",male,32.0,1,26.0,S,Alive,Beane, Mr. Edward
+544,545,first class,"Douglas, Mr. Walter Donald",male,50.0,1,106.425,C,Died,Douglas, Mr. Walter Donald
+545,546,first class,"Nicholson, Mr. Arthur Ernest",male,64.0,0,26.0,S,Died,Nicholson, Mr. Arthur Ernest
+546,547,second class,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,1,26.0,S,Alive,Beane, Mrs. Edward (Ethel Clarke)
+547,548,second class,"Padro y Manent, Mr. Julian",male,,0,13.8625,C,Alive,Padro y Manent, Mr. Julian
+548,549,third class,"Goldsmith, Mr. Frank John",male,33.0,1,20.525,S,Died,Goldsmith, Mr. Frank John
+549,550,second class,"Davies, Master. John Morgan Jr",male,8.0,1,36.75,S,Alive,Davies, Master. John Morgan Jr
+550,551,first class,"Thayer, Mr. John Borland Jr",male,17.0,0,110.8833,C,Alive,Thayer, Mr. John Borland Jr
+551,552,second class,"Sharp, Mr. Percival James R",male,27.0,0,26.0,S,Died,Sharp, Mr. Percival James R
+552,553,third class,"O'Brien, Mr. Timothy",male,,0,7.8292,Q,Died,O'Brien, Mr. Timothy
+553,554,third class,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,0,7.225,C,Alive,Leeni," Mr. Fahim (""Philip Zenni"")"
+554,555,third class,"Ohman, Miss. Velin",female,22.0,0,7.775,S,Alive,Ohman, Miss. Velin
+555,556,first class,"Wright, Mr. George",male,62.0,0,26.55,S,Died,Wright, Mr. George
+556,557,first class,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1,39.6,C,Alive,Duff Gordon," Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")"
+557,558,first class,"Robbins, Mr. Victor",male,,0,227.525,C,Died,Robbins, Mr. Victor
+558,559,first class,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1,79.65,S,Alive,Taussig, Mrs. Emil (Tillie Mandelbaum)
+559,560,third class,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,1,17.4,S,Alive,de Messemaeker, Mrs. Guillaume Joseph (Emma)
+560,561,third class,"Morrow, Mr. Thomas Rowan",male,,0,7.75,Q,Died,Morrow, Mr. Thomas Rowan
+561,562,third class,"Sivic, Mr. Husein",male,40.0,0,7.8958,S,Died,Sivic, Mr. Husein
+562,563,second class,"Norman, Mr. Robert Douglas",male,28.0,0,13.5,S,Died,Norman, Mr. Robert Douglas
+563,564,third class,"Simmons, Mr. John",male,,0,8.05,S,Died,Simmons, Mr. John
+564,565,third class,"Meanwell, Miss. (Marion Ogden)",female,,0,8.05,S,Died,Meanwell, Miss. (Marion Ogden)
+565,566,third class,"Davies, Mr. Alfred J",male,24.0,2,24.15,S,Died,Davies, Mr. Alfred J
+566,567,third class,"Stoytcheff, Mr. Ilia",male,19.0,0,7.8958,S,Died,Stoytcheff, Mr. Ilia
+567,568,third class,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29.0,0,21.075,S,Died,Palsson, Mrs. Nils (Alma Cornelia Berglund)
+568,569,third class,"Doharr, Mr. Tannous",male,,0,7.2292,C,Died,Doharr, Mr. Tannous
+569,570,third class,"Jonsson, Mr. Carl",male,32.0,0,7.8542,S,Alive,Jonsson, Mr. Carl
+570,571,second class,"Harris, Mr. George",male,62.0,0,10.5,S,Alive,Harris, Mr. George
+571,572,first class,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2,51.4792,S,Alive,Appleton, Mrs. Edward Dale (Charlotte Lamson)
+572,573,first class,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,0,26.3875,S,Alive,Flynn," Mr. John Irwin (""Irving"")"
+573,574,third class,"Kelly, Miss. Mary",female,,0,7.75,Q,Alive,Kelly, Miss. Mary
+574,575,third class,"Rush, Mr. Alfred George John",male,16.0,0,8.05,S,Died,Rush, Mr. Alfred George John
+575,576,third class,"Patchett, Mr. George",male,19.0,0,14.5,S,Died,Patchett, Mr. George
+576,577,second class,"Garside, Miss. Ethel",female,34.0,0,13.0,S,Alive,Garside, Miss. Ethel
+577,578,first class,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1,55.9,S,Alive,Silvey, Mrs. William Baird (Alice Munger)
+578,579,third class,"Caram, Mrs. Joseph (Maria Elias)",female,,1,14.4583,C,Died,Caram, Mrs. Joseph (Maria Elias)
+579,580,third class,"Jussila, Mr. Eiriik",male,32.0,0,7.925,S,Alive,Jussila, Mr. Eiriik
+580,581,second class,"Christy, Miss. Julie Rachel",female,25.0,1,30.0,S,Alive,Christy, Miss. Julie Rachel
+581,582,first class,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1,110.8833,C,Alive,Thayer, Mrs. John Borland (Marian Longstreth Morris)
+582,583,second class,"Downton, Mr. William James",male,54.0,0,26.0,S,Died,Downton, Mr. William James
+583,584,first class,"Ross, Mr. John Hugo",male,36.0,0,40.125,C,Died,Ross, Mr. John Hugo
+584,585,third class,"Paulner, Mr. Uscher",male,,0,8.7125,C,Died,Paulner, Mr. Uscher
+585,586,first class,"Taussig, Miss. Ruth",female,18.0,0,79.65,S,Alive,Taussig, Miss. Ruth
+586,587,second class,"Jarvis, Mr. John Denzil",male,47.0,0,15.0,S,Died,Jarvis, Mr. John Denzil
+587,588,first class,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1,79.2,C,Alive,Frolicher-Stehli, Mr. Maxmillian
+588,589,third class,"Gilinski, Mr. Eliezer",male,22.0,0,8.05,S,Died,Gilinski, Mr. Eliezer
+589,590,third class,"Murdlin, Mr. Joseph",male,,0,8.05,S,Died,Murdlin, Mr. Joseph
+590,591,third class,"Rintamaki, Mr. Matti",male,35.0,0,7.125,S,Died,Rintamaki, Mr. Matti
+591,592,first class,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1,78.2667,C,Alive,Stephenson, Mrs. Walter Bertram (Martha Eustis)
+592,593,third class,"Elsbury, Mr. William James",male,47.0,0,7.25,S,Died,Elsbury, Mr. William James
+593,594,third class,"Bourke, Miss. Mary",female,,0,7.75,Q,Died,Bourke, Miss. Mary
+594,595,second class,"Chapman, Mr. John Henry",male,37.0,1,26.0,S,Died,Chapman, Mr. John Henry
+595,596,third class,"Van Impe, Mr. Jean Baptiste",male,36.0,1,24.15,S,Died,Van Impe, Mr. Jean Baptiste
+596,597,second class,"Leitch, Miss. Jessie Wills",female,,0,33.0,S,Alive,Leitch, Miss. Jessie Wills
+597,598,third class,"Johnson, Mr. Alfred",male,49.0,0,0.0,S,Died,Johnson, Mr. Alfred
+598,599,third class,"Boulos, Mr. Hanna",male,,0,7.225,C,Died,Boulos, Mr. Hanna
+599,600,first class,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,56.9292,C,Alive,Duff Gordon," Sir. Cosmo Edmund (""Mr Morgan"")"
+600,601,second class,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,2,27.0,S,Alive,Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)
+601,602,third class,"Slabenoff, Mr. Petco",male,,0,7.8958,S,Died,Slabenoff, Mr. Petco
+602,603,first class,"Harrington, Mr. Charles H",male,,0,42.4,S,Died,Harrington, Mr. Charles H
+603,604,third class,"Torber, Mr. Ernst William",male,44.0,0,8.05,S,Died,Torber, Mr. Ernst William
+604,605,first class,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0,26.55,C,Alive,Homer," Mr. Harry (""Mr E Haven"")"
+605,606,third class,"Lindell, Mr. Edvard Bengtsson",male,36.0,1,15.55,S,Died,Lindell, Mr. Edvard Bengtsson
+606,607,third class,"Karaic, Mr. Milan",male,30.0,0,7.8958,S,Died,Karaic, Mr. Milan
+607,608,first class,"Daniel, Mr. Robert Williams",male,27.0,0,30.5,S,Alive,Daniel, Mr. Robert Williams
+608,609,second class,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,1,41.5792,C,Alive,Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)
+609,610,first class,"Shutes, Miss. Elizabeth W",female,40.0,0,153.4625,S,Alive,Shutes, Miss. Elizabeth W
+610,611,third class,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39.0,1,31.275,S,Died,Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)
+611,612,third class,"Jardin, Mr. Jose Neto",male,,0,7.05,S,Died,Jardin, Mr. Jose Neto
+612,613,third class,"Murphy, Miss. Margaret Jane",female,,1,15.5,Q,Alive,Murphy, Miss. Margaret Jane
+613,614,third class,"Horgan, Mr. John",male,,0,7.75,Q,Died,Horgan, Mr. John
+614,615,third class,"Brocklebank, Mr. William Alfred",male,35.0,0,8.05,S,Died,Brocklebank, Mr. William Alfred
+615,616,second class,"Herman, Miss. Alice",female,24.0,1,65.0,S,Alive,Herman, Miss. Alice
+616,617,third class,"Danbom, Mr. Ernst Gilbert",male,34.0,1,14.4,S,Died,Danbom, Mr. Ernst Gilbert
+617,618,third class,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,1,16.1,S,Died,Lobb, Mrs. William Arthur (Cordelia K Stanlick)
+618,619,second class,"Becker, Miss. Marion Louise",female,4.0,2,39.0,S,Alive,Becker, Miss. Marion Louise
+619,620,second class,"Gavey, Mr. Lawrence",male,26.0,0,10.5,S,Died,Gavey, Mr. Lawrence
+620,621,third class,"Yasbeck, Mr. Antoni",male,27.0,1,14.4542,C,Died,Yasbeck, Mr. Antoni
+621,622,first class,"Kimball, Mr. Edwin Nelson Jr",male,42.0,1,52.5542,S,Alive,Kimball, Mr. Edwin Nelson Jr
+622,623,third class,"Nakid, Mr. Sahid",male,20.0,1,15.7417,C,Alive,Nakid, Mr. Sahid
+623,624,third class,"Hansen, Mr. Henry Damsgaard",male,21.0,0,7.8542,S,Died,Hansen, Mr. Henry Damsgaard
+624,625,third class,"Bowen, Mr. David John ""Dai""",male,21.0,0,16.1,S,Died,Bowen," Mr. David John ""Dai"""
+625,626,first class,"Sutton, Mr. Frederick",male,61.0,0,32.3208,S,Died,Sutton, Mr. Frederick
+626,627,second class,"Kirkland, Rev. Charles Leonard",male,57.0,0,12.35,Q,Died,Kirkland, Rev. Charles Leonard
+627,628,first class,"Longley, Miss. Gretchen Fiske",female,21.0,0,77.9583,S,Alive,Longley, Miss. Gretchen Fiske
+628,629,third class,"Bostandyeff, Mr. Guentcho",male,26.0,0,7.8958,S,Died,Bostandyeff, Mr. Guentcho
+629,630,third class,"O'Connell, Mr. Patrick D",male,,0,7.7333,Q,Died,O'Connell, Mr. Patrick D
+630,631,first class,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,0,30.0,S,Alive,Barkworth, Mr. Algernon Henry Wilson
+631,632,third class,"Lundahl, Mr. Johan Svensson",male,51.0,0,7.0542,S,Died,Lundahl, Mr. Johan Svensson
+632,633,first class,"Stahelin-Maeglin, Dr. Max",male,32.0,0,30.5,C,Alive,Stahelin-Maeglin, Dr. Max
+633,634,first class,"Parr, Mr. William Henry Marsh",male,,0,0.0,S,Died,Parr, Mr. William Henry Marsh
+634,635,third class,"Skoog, Miss. Mabel",female,9.0,3,27.9,S,Died,Skoog, Miss. Mabel
+635,636,second class,"Davis, Miss. Mary",female,28.0,0,13.0,S,Alive,Davis, Miss. Mary
+636,637,third class,"Leinonen, Mr. Antti Gustaf",male,32.0,0,7.925,S,Died,Leinonen, Mr. Antti Gustaf
+637,638,second class,"Collyer, Mr. Harvey",male,31.0,1,26.25,S,Died,Collyer, Mr. Harvey
+638,639,third class,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41.0,0,39.6875,S,Died,Panula, Mrs. Juha (Maria Emilia Ojala)
+639,640,third class,"Thorneycroft, Mr. Percival",male,,1,16.1,S,Died,Thorneycroft, Mr. Percival
+640,641,third class,"Jensen, Mr. Hans Peder",male,20.0,0,7.8542,S,Died,Jensen, Mr. Hans Peder
+641,642,first class,"Sagesser, Mlle. Emma",female,24.0,0,69.3,C,Alive,Sagesser, Mlle. Emma
+642,643,third class,"Skoog, Miss. Margit Elizabeth",female,2.0,3,27.9,S,Died,Skoog, Miss. Margit Elizabeth
+643,644,third class,"Foo, Mr. Choong",male,,0,56.4958,S,Alive,Foo, Mr. Choong
+644,645,third class,"Baclini, Miss. Eugenie",female,0.75,2,19.2583,C,Alive,Baclini, Miss. Eugenie
+645,646,first class,"Harper, Mr. Henry Sleeper",male,48.0,1,76.7292,C,Alive,Harper, Mr. Henry Sleeper
+646,647,third class,"Cor, Mr. Liudevit",male,19.0,0,7.8958,S,Died,Cor, Mr. Liudevit
+647,648,first class,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,0,35.5,C,Alive,Simonius-Blumer, Col. Oberst Alfons
+648,649,third class,"Willey, Mr. Edward",male,,0,7.55,S,Died,Willey, Mr. Edward
+649,650,third class,"Stanley, Miss. Amy Zillah Elsie",female,23.0,0,7.55,S,Alive,Stanley, Miss. Amy Zillah Elsie
+650,651,third class,"Mitkoff, Mr. Mito",male,,0,7.8958,S,Died,Mitkoff, Mr. Mito
+651,652,second class,"Doling, Miss. Elsie",female,18.0,0,23.0,S,Alive,Doling, Miss. Elsie
+652,653,third class,"Kalvik, Mr. Johannes Halvorsen",male,21.0,0,8.4333,S,Died,Kalvik, Mr. Johannes Halvorsen
+653,654,third class,"O'Leary, Miss. Hanora ""Norah""",female,,0,7.8292,Q,Alive,O'Leary," Miss. Hanora ""Norah"""
+654,655,third class,"Hegarty, Miss. Hanora ""Nora""",female,18.0,0,6.75,Q,Died,Hegarty," Miss. Hanora ""Nora"""
+655,656,second class,"Hickman, Mr. Leonard Mark",male,24.0,2,73.5,S,Died,Hickman, Mr. Leonard Mark
+656,657,third class,"Radeff, Mr. Alexander",male,,0,7.8958,S,Died,Radeff, Mr. Alexander
+657,658,third class,"Bourke, Mrs. John (Catherine)",female,32.0,1,15.5,Q,Died,Bourke, Mrs. John (Catherine)
+658,659,second class,"Eitemiller, Mr. George Floyd",male,23.0,0,13.0,S,Died,Eitemiller, Mr. George Floyd
+659,660,first class,"Newell, Mr. Arthur Webster",male,58.0,0,113.275,C,Died,Newell, Mr. Arthur Webster
+660,661,first class,"Frauenthal, Dr. Henry William",male,50.0,2,133.65,S,Alive,Frauenthal, Dr. Henry William
+661,662,third class,"Badt, Mr. Mohamed",male,40.0,0,7.225,C,Died,Badt, Mr. Mohamed
+662,663,first class,"Colley, Mr. Edward Pomeroy",male,47.0,0,25.5875,S,Died,Colley, Mr. Edward Pomeroy
+663,664,third class,"Coleff, Mr. Peju",male,36.0,0,7.4958,S,Died,Coleff, Mr. Peju
+664,665,third class,"Lindqvist, Mr. Eino William",male,20.0,1,7.925,S,Alive,Lindqvist, Mr. Eino William
+665,666,second class,"Hickman, Mr. Lewis",male,32.0,2,73.5,S,Died,Hickman, Mr. Lewis
+666,667,second class,"Butler, Mr. Reginald Fenton",male,25.0,0,13.0,S,Died,Butler, Mr. Reginald Fenton
+667,668,third class,"Rommetvedt, Mr. Knud Paust",male,,0,7.775,S,Died,Rommetvedt, Mr. Knud Paust
+668,669,third class,"Cook, Mr. Jacob",male,43.0,0,8.05,S,Died,Cook, Mr. Jacob
+669,670,first class,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,,1,52.0,S,Alive,Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)
+670,671,second class,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,1,39.0,S,Alive,Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)
+671,672,first class,"Davidson, Mr. Thornton",male,31.0,1,52.0,S,Died,Davidson, Mr. Thornton
+672,673,second class,"Mitchell, Mr. Henry Michael",male,70.0,0,10.5,S,Died,Mitchell, Mr. Henry Michael
+673,674,second class,"Wilhelms, Mr. Charles",male,31.0,0,13.0,S,Alive,Wilhelms, Mr. Charles
+674,675,second class,"Watson, Mr. Ennis Hastings",male,,0,0.0,S,Died,Watson, Mr. Ennis Hastings
+675,676,third class,"Edvardsson, Mr. Gustaf Hjalmar",male,18.0,0,7.775,S,Died,Edvardsson, Mr. Gustaf Hjalmar
+676,677,third class,"Sawyer, Mr. Frederick Charles",male,24.5,0,8.05,S,Died,Sawyer, Mr. Frederick Charles
+677,678,third class,"Turja, Miss. Anna Sofia",female,18.0,0,9.8417,S,Alive,Turja, Miss. Anna Sofia
+678,679,third class,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,1,46.9,S,Died,Goodwin, Mrs. Frederick (Augusta Tyler)
+679,680,first class,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,512.3292,C,Alive,Cardeza, Mr. Thomas Drake Martinez
+680,681,third class,"Peters, Miss. Katie",female,,0,8.1375,Q,Died,Peters, Miss. Katie
+681,682,first class,"Hassab, Mr. Hammad",male,27.0,0,76.7292,C,Alive,Hassab, Mr. Hammad
+682,683,third class,"Olsvigen, Mr. Thor Anderson",male,20.0,0,9.225,S,Died,Olsvigen, Mr. Thor Anderson
+683,684,third class,"Goodwin, Mr. Charles Edward",male,14.0,5,46.9,S,Died,Goodwin, Mr. Charles Edward
+684,685,second class,"Brown, Mr. Thomas William Solomon",male,60.0,1,39.0,S,Died,Brown, Mr. Thomas William Solomon
+685,686,second class,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1,41.5792,C,Died,Laroche, Mr. Joseph Philippe Lemercier
+686,687,third class,"Panula, Mr. Jaako Arnold",male,14.0,4,39.6875,S,Died,Panula, Mr. Jaako Arnold
+687,688,third class,"Dakic, Mr. Branko",male,19.0,0,10.1708,S,Died,Dakic, Mr. Branko
+688,689,third class,"Fischer, Mr. Eberhard Thelander",male,18.0,0,7.7958,S,Died,Fischer, Mr. Eberhard Thelander
+689,690,first class,"Madill, Miss. Georgette Alexandra",female,15.0,0,211.3375,S,Alive,Madill, Miss. Georgette Alexandra
+690,691,first class,"Dick, Mr. Albert Adrian",male,31.0,1,57.0,S,Alive,Dick, Mr. Albert Adrian
+691,692,third class,"Karun, Miss. Manca",female,4.0,0,13.4167,C,Alive,Karun, Miss. Manca
+692,693,third class,"Lam, Mr. Ali",male,,0,56.4958,S,Alive,Lam, Mr. Ali
+693,694,third class,"Saad, Mr. Khalil",male,25.0,0,7.225,C,Died,Saad, Mr. Khalil
+694,695,first class,"Weir, Col. John",male,60.0,0,26.55,S,Died,Weir, Col. John
+695,696,second class,"Chapman, Mr. Charles Henry",male,52.0,0,13.5,S,Died,Chapman, Mr. Charles Henry
+696,697,third class,"Kelly, Mr. James",male,44.0,0,8.05,S,Died,Kelly, Mr. James
+697,698,third class,"Mullens, Miss. Katherine ""Katie""",female,,0,7.7333,Q,Alive,Mullens," Miss. Katherine ""Katie"""
+698,699,first class,"Thayer, Mr. John Borland",male,49.0,1,110.8833,C,Died,Thayer, Mr. John Borland
+699,700,third class,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,0,7.65,S,Died,Humblen, Mr. Adolf Mathias Nicolai Olsen
+700,701,first class,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1,227.525,C,Alive,Astor, Mrs. John Jacob (Madeleine Talmadge Force)
+701,702,first class,"Silverthorne, Mr. Spencer Victor",male,35.0,0,26.2875,S,Alive,Silverthorne, Mr. Spencer Victor
+702,703,third class,"Barbara, Miss. Saiide",female,18.0,0,14.4542,C,Died,Barbara, Miss. Saiide
+703,704,third class,"Gallagher, Mr. Martin",male,25.0,0,7.7417,Q,Died,Gallagher, Mr. Martin
+704,705,third class,"Hansen, Mr. Henrik Juul",male,26.0,1,7.8542,S,Died,Hansen, Mr. Henrik Juul
+705,706,second class,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,0,26.0,S,Died,Morley," Mr. Henry Samuel (""Mr Henry Marshall"")"
+706,707,second class,"Kelly, Mrs. Florence ""Fannie""",female,45.0,0,13.5,S,Alive,Kelly," Mrs. Florence ""Fannie"""
+707,708,first class,"Calderhead, Mr. Edward Pennington",male,42.0,0,26.2875,S,Alive,Calderhead, Mr. Edward Pennington
+708,709,first class,"Cleaver, Miss. Alice",female,22.0,0,151.55,S,Alive,Cleaver, Miss. Alice
+709,710,third class,"Moubarek, Master. Halim Gonios (""William George"")",male,,1,15.2458,C,Alive,Moubarek," Master. Halim Gonios (""William George"")"
+710,711,first class,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,0,49.5042,C,Alive,Mayne," Mlle. Berthe Antonine (""Mrs de Villiers"")"
+711,712,first class,"Klaber, Mr. Herman",male,,0,26.55,S,Died,Klaber, Mr. Herman
+712,713,first class,"Taylor, Mr. Elmer Zebley",male,48.0,1,52.0,S,Alive,Taylor, Mr. Elmer Zebley
+713,714,third class,"Larsson, Mr. August Viktor",male,29.0,0,9.4833,S,Died,Larsson, Mr. August Viktor
+714,715,second class,"Greenberg, Mr. Samuel",male,52.0,0,13.0,S,Died,Greenberg, Mr. Samuel
+715,716,third class,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,0,7.65,S,Died,Soholt, Mr. Peter Andreas Lauritz Andersen
+716,717,first class,"Endres, Miss. Caroline Louise",female,38.0,0,227.525,C,Alive,Endres, Miss. Caroline Louise
+717,718,second class,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,0,10.5,S,Alive,Troutt," Miss. Edwina Celia ""Winnie"""
+718,719,third class,"McEvoy, Mr. Michael",male,,0,15.5,Q,Died,McEvoy, Mr. Michael
+719,720,third class,"Johnson, Mr. Malkolm Joackim",male,33.0,0,7.775,S,Died,Johnson, Mr. Malkolm Joackim
+720,721,second class,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0,33.0,S,Alive,Harper," Miss. Annie Jessie ""Nina"""
+721,722,third class,"Jensen, Mr. Svend Lauritz",male,17.0,1,7.0542,S,Died,Jensen, Mr. Svend Lauritz
+722,723,second class,"Gillespie, Mr. William Henry",male,34.0,0,13.0,S,Died,Gillespie, Mr. William Henry
+723,724,second class,"Hodges, Mr. Henry Price",male,50.0,0,13.0,S,Died,Hodges, Mr. Henry Price
+724,725,first class,"Chambers, Mr. Norman Campbell",male,27.0,1,53.1,S,Alive,Chambers, Mr. Norman Campbell
+725,726,third class,"Oreskovic, Mr. Luka",male,20.0,0,8.6625,S,Died,Oreskovic, Mr. Luka
+726,727,second class,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,3,21.0,S,Alive,Renouf, Mrs. Peter Henry (Lillian Jefferys)
+727,728,third class,"Mannion, Miss. Margareth",female,,0,7.7375,Q,Alive,Mannion, Miss. Margareth
+728,729,second class,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,1,26.0,S,Died,Bryhl, Mr. Kurt Arnold Gottfrid
+729,730,third class,"Ilmakangas, Miss. Pieta Sofia",female,25.0,1,7.925,S,Died,Ilmakangas, Miss. Pieta Sofia
+730,731,first class,"Allen, Miss. Elisabeth Walton",female,29.0,0,211.3375,S,Alive,Allen, Miss. Elisabeth Walton
+731,732,third class,"Hassan, Mr. Houssein G N",male,11.0,0,18.7875,C,Died,Hassan, Mr. Houssein G N
+732,733,second class,"Knight, Mr. Robert J",male,,0,0.0,S,Died,Knight, Mr. Robert J
+733,734,second class,"Berriman, Mr. William John",male,23.0,0,13.0,S,Died,Berriman, Mr. William John
+734,735,second class,"Troupiansky, Mr. Moses Aaron",male,23.0,0,13.0,S,Died,Troupiansky, Mr. Moses Aaron
+735,736,third class,"Williams, Mr. Leslie",male,28.5,0,16.1,S,Died,Williams, Mr. Leslie
+736,737,third class,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,1,34.375,S,Died,Ford, Mrs. Edward (Margaret Ann Watson)
+737,738,first class,"Lesurer, Mr. Gustave J",male,35.0,0,512.3292,C,Alive,Lesurer, Mr. Gustave J
+738,739,third class,"Ivanoff, Mr. Kanio",male,,0,7.8958,S,Died,Ivanoff, Mr. Kanio
+739,740,third class,"Nankoff, Mr. Minko",male,,0,7.8958,S,Died,Nankoff, Mr. Minko
+740,741,first class,"Hawksford, Mr. Walter James",male,,0,30.0,S,Alive,Hawksford, Mr. Walter James
+741,742,first class,"Cavendish, Mr. Tyrell William",male,36.0,1,78.85,S,Died,Cavendish, Mr. Tyrell William
+742,743,first class,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,262.375,C,Alive,Ryerson," Miss. Susan Parker ""Suzette"""
+743,744,third class,"McNamee, Mr. Neal",male,24.0,1,16.1,S,Died,McNamee, Mr. Neal
+744,745,third class,"Stranden, Mr. Juho",male,31.0,0,7.925,S,Alive,Stranden, Mr. Juho
+745,746,first class,"Crosby, Capt. Edward Gifford",male,70.0,1,71.0,S,Died,Crosby, Capt. Edward Gifford
+746,747,third class,"Abbott, Mr. Rossmore Edward",male,16.0,1,20.25,S,Died,Abbott, Mr. Rossmore Edward
+747,748,second class,"Sinkkonen, Miss. Anna",female,30.0,0,13.0,S,Alive,Sinkkonen, Miss. Anna
+748,749,first class,"Marvin, Mr. Daniel Warner",male,19.0,1,53.1,S,Died,Marvin, Mr. Daniel Warner
+749,750,third class,"Connaghton, Mr. Michael",male,31.0,0,7.75,Q,Died,Connaghton, Mr. Michael
+750,751,second class,"Wells, Miss. Joan",female,4.0,1,23.0,S,Alive,Wells, Miss. Joan
+751,752,third class,"Moor, Master. Meier",male,6.0,0,12.475,S,Alive,Moor, Master. Meier
+752,753,third class,"Vande Velde, Mr. Johannes Joseph",male,33.0,0,9.5,S,Died,Vande Velde, Mr. Johannes Joseph
+753,754,third class,"Jonkoff, Mr. Lalio",male,23.0,0,7.8958,S,Died,Jonkoff, Mr. Lalio
+754,755,second class,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,1,65.0,S,Alive,Herman, Mrs. Samuel (Jane Laver)
+755,756,second class,"Hamalainen, Master. Viljo",male,0.67,1,14.5,S,Alive,Hamalainen, Master. Viljo
+756,757,third class,"Carlsson, Mr. August Sigfrid",male,28.0,0,7.7958,S,Died,Carlsson, Mr. August Sigfrid
+757,758,second class,"Bailey, Mr. Percy Andrew",male,18.0,0,11.5,S,Died,Bailey, Mr. Percy Andrew
+758,759,third class,"Theobald, Mr. Thomas Leonard",male,34.0,0,8.05,S,Died,Theobald, Mr. Thomas Leonard
+759,760,first class,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,0,86.5,S,Alive,Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)
+760,761,third class,"Garfirth, Mr. John",male,,0,14.5,S,Died,Garfirth, Mr. John
+761,762,third class,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,0,7.125,S,Died,Nirva, Mr. Iisakki Antino Aijo
+762,763,third class,"Barah, Mr. Hanna Assi",male,20.0,0,7.2292,C,Alive,Barah, Mr. Hanna Assi
+763,764,first class,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1,120.0,S,Alive,Carter, Mrs. William Ernest (Lucile Polk)
+764,765,third class,"Eklund, Mr. Hans Linus",male,16.0,0,7.775,S,Died,Eklund, Mr. Hans Linus
+765,766,first class,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1,77.9583,S,Alive,Hogeboom, Mrs. John C (Anna Andrews)
+766,767,first class,"Brewe, Dr. Arthur Jackson",male,,0,39.6,C,Died,Brewe, Dr. Arthur Jackson
+767,768,third class,"Mangan, Miss. Mary",female,30.5,0,7.75,Q,Died,Mangan, Miss. Mary
+768,769,third class,"Moran, Mr. Daniel J",male,,1,24.15,Q,Died,Moran, Mr. Daniel J
+769,770,third class,"Gronnestad, Mr. Daniel Danielsen",male,32.0,0,8.3625,S,Died,Gronnestad, Mr. Daniel Danielsen
+770,771,third class,"Lievens, Mr. Rene Aime",male,24.0,0,9.5,S,Died,Lievens, Mr. Rene Aime
+771,772,third class,"Jensen, Mr. Niels Peder",male,48.0,0,7.8542,S,Died,Jensen, Mr. Niels Peder
+772,773,second class,"Mack, Mrs. (Mary)",female,57.0,0,10.5,S,Died,Mack, Mrs. (Mary)
+773,774,third class,"Elias, Mr. Dibo",male,,0,7.225,C,Died,Elias, Mr. Dibo
+774,775,second class,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,1,23.0,S,Alive,Hocking, Mrs. Elizabeth (Eliza Needs)
+775,776,third class,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,0,7.75,S,Died,Myhrman, Mr. Pehr Fabian Oliver Malkolm
+776,777,third class,"Tobin, Mr. Roger",male,,0,7.75,Q,Died,Tobin, Mr. Roger
+777,778,third class,"Emanuel, Miss. Virginia Ethel",female,5.0,0,12.475,S,Alive,Emanuel, Miss. Virginia Ethel
+778,779,third class,"Kilgannon, Mr. Thomas J",male,,0,7.7375,Q,Died,Kilgannon, Mr. Thomas J
+779,780,first class,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,0,211.3375,S,Alive,Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)
+780,781,third class,"Ayoub, Miss. Banoura",female,13.0,0,7.2292,C,Alive,Ayoub, Miss. Banoura
+781,782,first class,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1,57.0,S,Alive,Dick, Mrs. Albert Adrian (Vera Gillespie)
+782,783,first class,"Long, Mr. Milton Clyde",male,29.0,0,30.0,S,Died,Long, Mr. Milton Clyde
+783,784,third class,"Johnston, Mr. Andrew G",male,,1,23.45,S,Died,Johnston, Mr. Andrew G
+784,785,third class,"Ali, Mr. William",male,25.0,0,7.05,S,Died,Ali, Mr. William
+785,786,third class,"Harmer, Mr. Abraham (David Lishin)",male,25.0,0,7.25,S,Died,Harmer, Mr. Abraham (David Lishin)
+786,787,third class,"Sjoblom, Miss. Anna Sofia",female,18.0,0,7.4958,S,Alive,Sjoblom, Miss. Anna Sofia
+787,788,third class,"Rice, Master. George Hugh",male,8.0,4,29.125,Q,Died,Rice, Master. George Hugh
+788,789,third class,"Dean, Master. Bertram Vere",male,1.0,1,20.575,S,Alive,Dean, Master. Bertram Vere
+789,790,first class,"Guggenheim, Mr. Benjamin",male,46.0,0,79.2,C,Died,Guggenheim, Mr. Benjamin
+790,791,third class,"Keane, Mr. Andrew ""Andy""",male,,0,7.75,Q,Died,Keane," Mr. Andrew ""Andy"""
+791,792,second class,"Gaskell, Mr. Alfred",male,16.0,0,26.0,S,Died,Gaskell, Mr. Alfred
+792,793,third class,"Sage, Miss. Stella Anna",female,,8,69.55,S,Died,Sage, Miss. Stella Anna
+793,794,first class,"Hoyt, Mr. William Fisher",male,,0,30.6958,C,Died,Hoyt, Mr. William Fisher
+794,795,third class,"Dantcheff, Mr. Ristiu",male,25.0,0,7.8958,S,Died,Dantcheff, Mr. Ristiu
+795,796,second class,"Otter, Mr. Richard",male,39.0,0,13.0,S,Died,Otter, Mr. Richard
+796,797,first class,"Leader, Dr. Alice (Farnham)",female,49.0,0,25.9292,S,Alive,Leader, Dr. Alice (Farnham)
+797,798,third class,"Osman, Mrs. Mara",female,31.0,0,8.6833,S,Alive,Osman, Mrs. Mara
+798,799,third class,"Ibrahim Shawah, Mr. Yousseff",male,30.0,0,7.2292,C,Died,Ibrahim Shawah, Mr. Yousseff
+799,800,third class,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,1,24.15,S,Died,Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)
+800,801,second class,"Ponesell, Mr. Martin",male,34.0,0,13.0,S,Died,Ponesell, Mr. Martin
+801,802,second class,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,1,26.25,S,Alive,Collyer, Mrs. Harvey (Charlotte Annie Tate)
+802,803,first class,"Carter, Master. William Thornton II",male,11.0,1,120.0,S,Alive,Carter, Master. William Thornton II
+803,804,third class,"Thomas, Master. Assad Alexander",male,0.42,0,8.5167,C,Alive,Thomas, Master. Assad Alexander
+804,805,third class,"Hedman, Mr. Oskar Arvid",male,27.0,0,6.975,S,Alive,Hedman, Mr. Oskar Arvid
+805,806,third class,"Johansson, Mr. Karl Johan",male,31.0,0,7.775,S,Died,Johansson, Mr. Karl Johan
+806,807,first class,"Andrews, Mr. Thomas Jr",male,39.0,0,0.0,S,Died,Andrews, Mr. Thomas Jr
+807,808,third class,"Pettersson, Miss. Ellen Natalia",female,18.0,0,7.775,S,Died,Pettersson, Miss. Ellen Natalia
+808,809,second class,"Meyer, Mr. August",male,39.0,0,13.0,S,Died,Meyer, Mr. August
+809,810,first class,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,1,53.1,S,Alive,Chambers, Mrs. Norman Campbell (Bertha Griggs)
+810,811,third class,"Alexander, Mr. William",male,26.0,0,7.8875,S,Died,Alexander, Mr. William
+811,812,third class,"Lester, Mr. James",male,39.0,0,24.15,S,Died,Lester, Mr. James
+812,813,second class,"Slemen, Mr. Richard James",male,35.0,0,10.5,S,Died,Slemen, Mr. Richard James
+813,814,third class,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,4,31.275,S,Died,Andersson, Miss. Ebba Iris Alfrida
+814,815,third class,"Tomlin, Mr. Ernest Portage",male,30.5,0,8.05,S,Died,Tomlin, Mr. Ernest Portage
+815,816,first class,"Fry, Mr. Richard",male,,0,0.0,S,Died,Fry, Mr. Richard
+816,817,third class,"Heininen, Miss. Wendla Maria",female,23.0,0,7.925,S,Died,Heininen, Miss. Wendla Maria
+817,818,second class,"Mallet, Mr. Albert",male,31.0,1,37.0042,C,Died,Mallet, Mr. Albert
+818,819,third class,"Holm, Mr. John Fredrik Alexander",male,43.0,0,6.45,S,Died,Holm, Mr. John Fredrik Alexander
+819,820,third class,"Skoog, Master. Karl Thorsten",male,10.0,3,27.9,S,Died,Skoog, Master. Karl Thorsten
+820,821,first class,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,93.5,S,Alive,Hays, Mrs. Charles Melville (Clara Jennings Gregg)
+821,822,third class,"Lulic, Mr. Nikola",male,27.0,0,8.6625,S,Alive,Lulic, Mr. Nikola
+822,823,first class,"Reuchlin, Jonkheer. John George",male,38.0,0,0.0,S,Died,Reuchlin, Jonkheer. John George
+823,824,third class,"Moor, Mrs. (Beila)",female,27.0,0,12.475,S,Alive,Moor, Mrs. (Beila)
+824,825,third class,"Panula, Master. Urho Abraham",male,2.0,4,39.6875,S,Died,Panula, Master. Urho Abraham
+825,826,third class,"Flynn, Mr. John",male,,0,6.95,Q,Died,Flynn, Mr. John
+826,827,third class,"Lam, Mr. Len",male,,0,56.4958,S,Died,Lam, Mr. Len
+827,828,second class,"Mallet, Master. Andre",male,1.0,0,37.0042,C,Alive,Mallet, Master. Andre
+828,829,third class,"McCormack, Mr. Thomas Joseph",male,,0,7.75,Q,Alive,McCormack, Mr. Thomas Joseph
+829,830,first class,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0,80.0,,Alive,Stone, Mrs. George Nelson (Martha Evelyn)
+830,831,third class,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1,14.4542,C,Alive,Yasbeck, Mrs. Antoni (Selini Alexander)
+831,832,second class,"Richards, Master. George Sibley",male,0.83,1,18.75,S,Alive,Richards, Master. George Sibley
+832,833,third class,"Saad, Mr. Amin",male,,0,7.2292,C,Died,Saad, Mr. Amin
+833,834,third class,"Augustsson, Mr. Albert",male,23.0,0,7.8542,S,Died,Augustsson, Mr. Albert
+834,835,third class,"Allum, Mr. Owen George",male,18.0,0,8.3,S,Died,Allum, Mr. Owen George
+835,836,first class,"Compton, Miss. Sara Rebecca",female,39.0,1,83.1583,C,Alive,Compton, Miss. Sara Rebecca
+836,837,third class,"Pasic, Mr. Jakob",male,21.0,0,8.6625,S,Died,Pasic, Mr. Jakob
+837,838,third class,"Sirota, Mr. Maurice",male,,0,8.05,S,Died,Sirota, Mr. Maurice
+838,839,third class,"Chip, Mr. Chang",male,32.0,0,56.4958,S,Alive,Chip, Mr. Chang
+839,840,first class,"Marechal, Mr. Pierre",male,,0,29.7,C,Alive,Marechal, Mr. Pierre
+840,841,third class,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,0,7.925,S,Died,Alhomaki, Mr. Ilmari Rudolf
+841,842,second class,"Mudd, Mr. Thomas Charles",male,16.0,0,10.5,S,Died,Mudd, Mr. Thomas Charles
+842,843,first class,"Serepeca, Miss. Augusta",female,30.0,0,31.0,C,Alive,Serepeca, Miss. Augusta
+843,844,third class,"Lemberopolous, Mr. Peter L",male,34.5,0,6.4375,C,Died,Lemberopolous, Mr. Peter L
+844,845,third class,"Culumovic, Mr. Jeso",male,17.0,0,8.6625,S,Died,Culumovic, Mr. Jeso
+845,846,third class,"Abbing, Mr. Anthony",male,42.0,0,7.55,S,Died,Abbing, Mr. Anthony
+846,847,third class,"Sage, Mr. Douglas Bullen",male,,8,69.55,S,Died,Sage, Mr. Douglas Bullen
+847,848,third class,"Markoff, Mr. Marin",male,35.0,0,7.8958,C,Died,Markoff, Mr. Marin
+848,849,second class,"Harper, Rev. John",male,28.0,0,33.0,S,Died,Harper, Rev. John
+849,850,first class,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,,1,89.1042,C,Alive,Goldenberg, Mrs. Samuel L (Edwiga Grabowska)
+850,851,third class,"Andersson, Master. Sigvard Harald Elias",male,4.0,4,31.275,S,Died,Andersson, Master. Sigvard Harald Elias
+851,852,third class,"Svensson, Mr. Johan",male,74.0,0,7.775,S,Died,Svensson, Mr. Johan
+852,853,third class,"Boulos, Miss. Nourelain",female,9.0,1,15.2458,C,Died,Boulos, Miss. Nourelain
+853,854,first class,"Lines, Miss. Mary Conover",female,16.0,0,39.4,S,Alive,Lines, Miss. Mary Conover
+854,855,second class,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,1,26.0,S,Died,Carter, Mrs. Ernest Courtenay (Lilian Hughes)
+855,856,third class,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0,9.35,S,Alive,Aks, Mrs. Sam (Leah Rosen)
+856,857,first class,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1,164.8667,S,Alive,Wick, Mrs. George Dennick (Mary Hitchcock)
+857,858,first class,"Daly, Mr. Peter Denis ",male,51.0,0,26.55,S,Alive,Daly, Mr. Peter Denis 
+858,859,third class,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,0,19.2583,C,Alive,Baclini, Mrs. Solomon (Latifa Qurban)
+859,860,third class,"Razi, Mr. Raihed",male,,0,7.2292,C,Died,Razi, Mr. Raihed
+860,861,third class,"Hansen, Mr. Claus Peter",male,41.0,2,14.1083,S,Died,Hansen, Mr. Claus Peter
+861,862,second class,"Giles, Mr. Frederick Edward",male,21.0,1,11.5,S,Died,Giles, Mr. Frederick Edward
+862,863,first class,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0,25.9292,S,Alive,Swift, Mrs. Frederick Joel (Margaret Welles Barron)
+863,864,third class,"Sage, Miss. Dorothy Edith ""Dolly""",female,,8,69.55,S,Died,Sage," Miss. Dorothy Edith ""Dolly"""
+864,865,second class,"Gill, Mr. John William",male,24.0,0,13.0,S,Died,Gill, Mr. John William
+865,866,second class,"Bystrom, Mrs. (Karolina)",female,42.0,0,13.0,S,Alive,Bystrom, Mrs. (Karolina)
+866,867,second class,"Duran y More, Miss. Asuncion",female,27.0,1,13.8583,C,Alive,Duran y More, Miss. Asuncion
+867,868,first class,"Roebling, Mr. Washington Augustus II",male,31.0,0,50.4958,S,Died,Roebling, Mr. Washington Augustus II
+868,869,third class,"van Melkebeke, Mr. Philemon",male,,0,9.5,S,Died,van Melkebeke, Mr. Philemon
+869,870,third class,"Johnson, Master. Harold Theodor",male,4.0,1,11.1333,S,Alive,Johnson, Master. Harold Theodor
+870,871,third class,"Balkic, Mr. Cerin",male,26.0,0,7.8958,S,Died,Balkic, Mr. Cerin
+871,872,first class,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1,52.5542,S,Alive,Beckwith, Mrs. Richard Leonard (Sallie Monypeny)
+872,873,first class,"Carlsson, Mr. Frans Olof",male,33.0,0,5.0,S,Died,Carlsson, Mr. Frans Olof
+873,874,third class,"Vander Cruyssen, Mr. Victor",male,47.0,0,9.0,S,Died,Vander Cruyssen, Mr. Victor
+874,875,second class,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,1,24.0,C,Alive,Abelson, Mrs. Samuel (Hannah Wizosky)
+875,876,third class,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,0,7.225,C,Alive,Najib," Miss. Adele Kiamie ""Jane"""
+876,877,third class,"Gustafsson, Mr. Alfred Ossian",male,20.0,0,9.8458,S,Died,Gustafsson, Mr. Alfred Ossian
+877,878,third class,"Petroff, Mr. Nedelio",male,19.0,0,7.8958,S,Died,Petroff, Mr. Nedelio
+878,879,third class,"Laleff, Mr. Kristo",male,,0,7.8958,S,Died,Laleff, Mr. Kristo
+879,880,first class,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0,83.1583,C,Alive,Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)
+880,881,second class,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,0,26.0,S,Alive,Shelley, Mrs. William (Imanita Parrish Hall)
+881,882,third class,"Markun, Mr. Johann",male,33.0,0,7.8958,S,Died,Markun, Mr. Johann
+882,883,third class,"Dahlberg, Miss. Gerda Ulrika",female,22.0,0,10.5167,S,Died,Dahlberg, Miss. Gerda Ulrika
+883,884,second class,"Banfield, Mr. Frederick James",male,28.0,0,10.5,S,Died,Banfield, Mr. Frederick James
+884,885,third class,"Sutehall, Mr. Henry Jr",male,25.0,0,7.05,S,Died,Sutehall, Mr. Henry Jr
+885,886,third class,"Rice, Mrs. William (Margaret Norton)",female,39.0,0,29.125,Q,Died,Rice, Mrs. William (Margaret Norton)
+886,887,second class,"Montvila, Rev. Juozas",male,27.0,0,13.0,S,Died,Montvila, Rev. Juozas
+887,888,first class,"Graham, Miss. Margaret Edith",female,19.0,0,30.0,S,Alive,Graham, Miss. Margaret Edith
+888,889,third class,"Johnston, Miss. Catherine Helen ""Carrie""",female,,1,23.45,S,Died,Johnston," Miss. Catherine Helen ""Carrie"""
+889,890,first class,"Behr, Mr. Karl Howell",male,26.0,0,30.0,C,Alive,Behr, Mr. Karl Howell
+890,891,third class,"Dooley, Mr. Patrick",male,32.0,0,7.75,Q,Died,Dooley, Mr. Patrick
